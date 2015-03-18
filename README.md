@@ -1,4 +1,4 @@
-Natural Language Processing - counting text stats based on n-grams
+Natural Language Processing - n-grams statistics
 ============
 
 Run:
