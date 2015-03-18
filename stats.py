@@ -45,25 +45,25 @@ def count_n_grams(data, n_grams=3):
         n_grams_map[gram] = 1
   return n_grams_map
 
-def count_stat_for_document(document):
+def count_stat_for_document(document, n_size=3):
   stat_list = []
   with open(document) as file:
     data = file.read()
     data2 = clean(data.lower()).split()
-    stat_map = count_n_grams(data2, 3)
-    for key in initialize_n_grams_list(3):
+    stat_map = count_n_grams(data2, n_size)
+    for key in initialize_n_grams_list(n_size):
       if key not in stat_map:
         stat_list.append(0)
       else:
         stat_list.append(stat_map[key])
   return stat_list
 
-def make_stats(directory):
+def make_stats(directory, n_size=3):
   stat_map = {}
   for file in os.listdir(directory):
     if file.endswith(".txt"):
       print("Processing file: " + directory + "/" + file)
-      stat_map[file] = count_stat_for_document(directory + "/" + file)
+      stat_map[file] = count_stat_for_document(directory + "/" + file, n_size)
   return stat_map
 
 def print_similarity_map(similarity_map):
@@ -75,11 +75,11 @@ def print_similarity_map(similarity_map):
 if __name__ == '__main__':
   if len(sys.argv) == 4:
     dir = sys.argv[1]
-    n_size = sys.argv[2]
+    n_size = int(sys.argv[2])
     user_file = sys.argv[3]
 
-    stats = make_stats(dir)
-    user_stats = count_stat_for_document(user_file)
+    stats = make_stats(dir, n_size)
+    user_stats = count_stat_for_document(user_file, n_size)
 
     similarity = {}
     for key in stats:

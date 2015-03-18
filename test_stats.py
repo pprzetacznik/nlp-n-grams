@@ -31,7 +31,7 @@ class TestLogger(unittest.TestCase):
     print count_n_grams("to jest testowy tekst".split(), 3)
 
   def test_count_stat_for_document(self):
-    print count_stat_for_document('pjn_lab1/polski.txt')
+    print count_stat_for_document('train_corpus/polski.txt', 3)
 
 if __name__ == '__main__':
   unittest.main()
