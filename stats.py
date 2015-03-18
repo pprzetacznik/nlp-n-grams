@@ -49,7 +49,7 @@ def count_stat_for_document(document):
   stat_list = []
   with open(document) as file:
     data = file.read()
-    data2 = clean(data).split()
+    data2 = clean(data.lower()).split()
     stat_map = count_n_grams(data2, 3)
     for key in initialize_n_grams_list(3):
       if key not in stat_map:
