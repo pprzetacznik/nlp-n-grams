@@ -67,7 +67,7 @@ def make_stats(directory, n_size=3):
   return stat_map
 
 def print_similarity_map(similarity_map):
-  print("######## RECOMENDATIONS ###########")
+  print("######## RECOMMENDATIONS ###########")
   for item in sorted(similarity_map.items(), key=itemgetter(1), reverse=True):
     print(item[0], " : ", item[1])
 
