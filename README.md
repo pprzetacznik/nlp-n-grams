@@ -1,6 +1,8 @@
 Natural Language Processing - n-grams statistics
 ===
 
+![NGrams CI](https://github.com/pprzetacznik/nlp-n-grams/workflows/NGrams%20CI/badge.svg)
+
 Run:
 ```
 pip install -r requirements.txt
