@@ -20,7 +20,7 @@ class NGrams:
             self.alphabet = "abcdefghijklmnopqrstuvwxyz"
         self.init_n_grams_list = self._initialize_n_grams_list(self.n_size)
 
-    def count_stat_for_document(self, document: str) -> NGramsVector:
+    def get_vector_for_document(self, document: str) -> NGramsVector:
         stat_list = []
         with open(document, "r") as file:
             data = file.read()
@@ -73,7 +73,7 @@ def clean(string: str) -> str:
     return re.sub(r"[^a-z\s]", "", string)
 
 
-def make_stats(
+def n_grams_for_directory(
     ngrams: NGrams, directory: str, n_size: int = 3
 ) -> Dict[str, NGramsVector]:
     stat_map = {}
@@ -81,7 +81,7 @@ def make_stats(
         if filename.endswith(".txt"):
             filepath = os.path.join(directory, filename)
             print(f"Processing file: {filepath}")
-            stat_map[filename] = ngrams.count_stat_for_document(filepath)
+            stat_map[filename] = ngrams.get_vector_for_document(filepath)
     return stat_map
 
 
@@ -118,11 +118,12 @@ def parse_arguments() -> Namespace:
 
 def main(args: Namespace) -> None:
     ngrams = NGrams(args.n_size)
-    stats = make_stats(ngrams, args.train_dir)
-    user_stats = ngrams.count_stat_for_document(args.test_file)
+    corpus_n_grams_vectors = n_grams_for_directory(ngrams, args.train_dir)
+    user_stats = ngrams.get_vector_for_document(args.test_file)
 
     similarity_map = {
-        stat: cosine_distance(stats[stat], user_stats) for stat in stats
+        filename: cosine_distance(corpus_n_grams_vectors[filename], user_stats)
+        for filename in corpus_n_grams_vectors
     }
     print_similarity_map(similarity_map)
 

@@ -17,9 +17,9 @@ class TestNGrams(TestCase):
     def test_clean(self):
         print(clean("abecadło z pieca spadło123"))
 
-    def test_count_stat_for_document(self):
+    def test_get_vector_for_document(self):
         ngrams = NGrams(3)
-        print(ngrams.count_stat_for_document("train_corpus/polski.txt"))
+        print(ngrams.get_vector_for_document("train_corpus/polski.txt"))
 
 
 if __name__ == "__main__":
