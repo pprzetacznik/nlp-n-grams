@@ -134,7 +134,7 @@ HARRY POTTER AND THE GOBLET OF FIRE
 CHAPTER ONE - THE RIDDLE HOUSE
 
 	The villagers of Little Hangleron still called it "the Riddle House," even though it had been many years since the Riddle family had lived there.  It stood on a hill overlooking the village, some of its windows boarded, tiles missing from its roof, and ivy spreading unchecked over its face.  Once a fine-looking manor, and easily the largest and grandest building for miles around, the Riddle House was now damp, derelict, and unoccupied.
-	The Little Hagletons all agreed that the old house was "creepy."  Half a century ago, something strange and horrible had happened there, something that the older inhabitants of the village still liked to discuss when topics for gossip were scarce.  The story had been picked over so many times, and had been embroidered in so many places, that nobody was quite sure what the truth was anymore.  Every version of the tale, however, started in the same place:  Fifty years before, at daybreak on a fine summer's morning when the Riddle House had still been well kept and impressive, a maid had entered the drawing room to find all three Riddles dead.  
+	The Little Hagletons all agreed that the old house was "creepy."  Half a century ago, something strange and horrible had happened there, something that the older inhabitants of the village still liked to discuss when topics for gossip were scarce.  The story had been picked over so many times, and had been embroidered in so many places, that nobody was quite sure what the truth was anymore.  Every version of the tale, however, started in the same place:  Fifty years before, at daybreak on a fine summer's morning when the Riddle House had still been well kept and impressive, a maid had entered the drawing room to find all three Riddles dead.
 	The maid had run screaming down the hill into the village and roused as many people as she could.
 	"Lying there with their eyes wide open!  Cold as ice!  Still in their dinner things!"
 	The police were summoned, and the whole of Little Hangleton had seethed with shocked curiosity and ill-disguised excitement.  Nobody wasted their breath pretending to feel very sad about the Riddles, for they had been most unpopular.  Elderly Mr. and Mrs. Riddle had been rich, snobbish, and rude, and their grown-up son, Tom, had been, if anything, worse.  All the villagers cared about was the identity of their murderer -- for plainly, three apparently healthy people did not all drop dead of natural causes on the same night.
@@ -161,7 +161,7 @@ CHAPTER ONE - THE RIDDLE HOUSE
 	The wealthy man who owned the Riddle House these days neither lived there nor put it to any use; they said in the village that he kept it for "tax reasons," though nobody was very clear what these might be.  The wealthy owner continued to pay Frank to do the gardening, however.  Frank was nearing his seventy-seventh birthday now, very deaf, his bad leg stiffer than ever, but could be seen pottering around the flower beds in fine weather, even though the weeds were starting to creep up on him, try as he might to suppress them.
 	Weeds were not the only things Frank had to contend with either.  Boys from the village made a habit of throwing stones through the windows of the Riddle House.  They rode their bicycles over the lawns Frank worked so hard to keep smooth.  Once or twice, they broke into the old house for a dare.  They knew that old Frank's devotion to the house and the grounds amounted almost to an obsession, and it amused them to see him limping across the garden, brandishing his stick and yelling croakily at them.  Frank, for his part, believed the boys tormented him because they, like their parents and grandparents, though him a murderer.  So when Frank awoke one night in August and saw something very odd up at the old house, he merely assumed that the boys had gone one step further in their attempts to punish him.
 	It was Frank's bad leg that woke him; it was paining him worse than ever in his old age.  He got up and limped downstairs into the kitchen with the idea of refilling his hot-water bottle to ease the stiffness in his knee.  Standing at the sink, filling the kettle, he looked up at the Riddle House and saw lights glimmering in its upper windows.  Frank knew at once what was going on.  The boys had broken into the house again, and judging by the flickering quality of the light, they had started a fire.
-	Frank had no telephone, in any case, he had deeply mistrusted the police ever since they had taken him in for questioning about the Riddles' deaths.  He put down the kettle at once, hurried back upstairs as fast as his bad leg would allow, and was soon back in his kitchen, fully dressed and removing a rusty old key from its hook by the door.  He picked up his walking stick, which was propped against the wall, and set off into the night.  
+	Frank had no telephone, in any case, he had deeply mistrusted the police ever since they had taken him in for questioning about the Riddles' deaths.  He put down the kettle at once, hurried back upstairs as fast as his bad leg would allow, and was soon back in his kitchen, fully dressed and removing a rusty old key from its hook by the door.  He picked up his walking stick, which was propped against the wall, and set off into the night.
 	The front door of the Riddle House bore no sign of being forced, nor did any of the windows.  Frank limped around to the back of the house until he reached a door almost completely hidden by ivy, took out the old key, put it into the lock, and opened the door noiselessly.
 	He let himself into the cavernous kitchen.  Frank had not entered it for many years; nevertheless, although it was very dark, he remembered where the door into the hall was, and he groped his way towards it, his nostrils full of the smell of decay, ears pricked for any sound of footsteps or voices from overhead.  He reached the hall, which was a little lighter owing to the large mullioned windows on either side of the front door, and started to climb the stairs, blessing the dust that lay thick upon the stone, because it muffled the sound of his feet and stick.
 	On the landing, Frank turned right, and saw at once where the intruders were:  At the every end of the passage a door stood ajar, and a flickering light shone through the gap, casting a long sliver of gold across the black floor.  Frank edged closer and closer, he was able to see a narrow slice of the room beyond.
@@ -288,7 +288,7 @@ Dear Sirius,
 
 Yes, thought Harry, that looked all right.  There was no point putting in the dream; he didn't want it to look as though he was too worried.  He folded up the parchment and laid it aside on his desk, ready for when Hedwig returned.  Then he got to his feet, stretched, and opened his wardrobe once more. Without glancing at his reflection he started to get dressed before going down to breakfast.
 
-CHAPTER THREE - THE INVITATION 
+CHAPTER THREE - THE INVITATION
 
             By the time Harry arrived in the kitchen, the three Dursleys were already seated around the table.  None of them looked up as he entered or sat down.  Uncle Vernon's large red face was hidden behind the morning's Daily Mail, and Aunt Petunia was cutting a grapefruit into quarters, her lips pursed over her horselike teeth.
             Dudley looked furious and sulky, and somehow seemed to be taking up even more space than usual.  This was saying something, as he always took up an entire side of the square table by himself.  When Aunt Petunia put a quarter of unsweetened grapefruit onto Dudley's plate with a tremulous "There you are, Diddy darling," Dudley glowered at her.  His life had taken a most unpleasant turn since he had come home for the summer with his end-of-year report.
@@ -639,7 +639,7 @@ Harry had a sudden vision of a pair of legs and an eyeball lying abandoned on th
 There were footsteps down the passageway and Hermione and Ginny came into the kitchen, both looking pale and drowsy.
 "Why do we have to be up so early?" Ginny said, rubbing her eyes and sitting down at the table.
 "We've got a bit of a walk," said Mr. Weasley.
-"Walk?" said Harry. "What, are we walking to the World Cup?"  
+"Walk?" said Harry. "What, are we walking to the World Cup?"
 "No, no, that's miles away," said Mr. Weasley, smiling.  "We only need to walk a short way.  It's just that it's very difficult for a large number of wizards to congregate without attracting Muggle attention.  We have to be very careful about how we travel at the best of times, and on a huge occasion like the Quidditch World Cup..."
 "George!" said Mrs. Weasley sharply, and they all jumped.
 "What?" said George, in an innocent tone that deceived nobody.
@@ -663,7 +663,7 @@ Mr. Weasley pointed ahead of them, where a large black mass rose beyond the vill
 "Well, they can be anything," said Mr. Weasley. "Unobtrusive things, obviously, so Muggles don't go picking them up and playing with them ... stuff they'll just think is litter...."
 They trudged down the dark, dank lane toward the village, the silence broken only by their footsteps.  The sky lightened very slowly as they made their way through the village, its inky blackness diluting to deepest blue.  Harry's hands and feet were freezing.  Mr. Weasley kept checking his watch.
 They didn't have breath to spare for talking as they began to climb Stoatshead Hill, stumbling occasionally in hidden rabbit holes, slipping on thick black tuffets of grass.  Each breath Harry took was sharp in his chest and his legs were starting to seize up when, at last, his feet found level ground.
-"Whew," panted Mr. Weasley, taking off his glasses and wiping them on his sweater. "Well, we've made good time - we've got ten minutes." 
+"Whew," panted Mr. Weasley, taking off his glasses and wiping them on his sweater. "Well, we've made good time - we've got ten minutes."
 Hermione came over the crest of the hill last, clutching a stitch in her side.
 "Now we just need the Portkey," said Mr. Weasley, replacing his glasses and squinting around at the ground.  "It won't be big.... Come on..."
 They spread out, searching.  They had only been at it for a couple of minutes, however, when a shout rent the still air.
@@ -964,7 +964,7 @@ Harry knew enough about Quidditch to see that the Irish Chasers were superb. The
 The match became still faster, but more brutal. Volkov and Vulchanov, the Bulgarian Beaters, were whacking the Bludgers as fiercely as possible at the Irish Chasers, and were starting to prevent them from using some of their best moves; twice they were forced to scatter, and then, finally, Ivanova managed to break through their ranks; dodge the Keeper, Ryan; and score Bulgaria's first goal.
 "Fingers in your ears!" bellowed Mr. Weasley as the veela started to dance in celebration. Harry screwed up his eyes too; he wanted to keep his mind on the game. After a few seconds, he chanced a glance at the field.  The veela had stopped dancing, and Bulgaria was again in possession of the Quaffle.
 "Dimitrov! Levski! Dimitrov! Ivanova - oh I say!"  roared Bagman.
-One hundred thousand wizards gasped as the two Seekers, Krum and Lynch, plummeted through the center of the Chasers, so fast that it looked as though they had just jumped from airplanes without parachutes. Harry followed their descent through his Omnioculars, squinting to see where the Snitch was - 
+One hundred thousand wizards gasped as the two Seekers, Krum and Lynch, plummeted through the center of the Chasers, so fast that it looked as though they had just jumped from airplanes without parachutes. Harry followed their descent through his Omnioculars, squinting to see where the Snitch was -
 "They're going to crash!" screamed Hermione next to Harry.
 She was half right - at the very last second, Viktor Krum pulled out of the dive and spiraled off. Lynch, however, hit the ground with a dull thud that could be heard throughout the stadium. A huge groan rose from the Irish seats.
 "Fool!" moaned Mr. Weasley. "Krum was feinting!"
@@ -1026,7 +1026,7 @@ One by one, the Bulgarians filed between the rows of seats in the box, and Bagma
 And then came the Irish team.  Aidan Lynch was being supported by Moran and Connolly; the second crash seemed to have dazed him and his eyes looked strangely unfocused. But he grinned happily as Troy and Quigley lifted the Cup into the air and the crowd below thundered its approval.  Harry's hands were numb with clapping.
 At last, when the Irish team had left the box to perform another lap of honor on their brooms (Aidan Lynch on the back of Confolly's, clutching hard around his waist and still grinning in a bemused sort of way), Bagman pointed his wand at his throat and muttered, "Quietus."
 "They'll be talking about this one for years," he said hoarsely, "a really unexpected twist, that. . . . shame it couldn't have lasted longer. . . . Ah yes... . yes, I owe you. . . how much?"
-For Fred and George had just scrambled over the backs of their seats and were standing in front of Ludo Bagman with broad grins on their faces, their hands outstretched. 
+For Fred and George had just scrambled over the backs of their seats and were standing in front of Ludo Bagman with broad grins on their faces, their hands outstretched.
 
 CHAPTER NINE - THE DARK MARK
 
@@ -1075,7 +1075,7 @@ Malfoy turned his face to Harry, still smiling.
 "Come on," Hermione repeated, and she pulled Harry and Ron up the path again.
 "I'll bet you anything his dad is one of that masked lot!" said Ron hotly.
 "Well, with any luck, the Ministry will catch him!" said Hermione fervently. "Oh I can't believe this. Where have the others got to?"
-Fred, George, and Ginny were nowhere to be seen, though the path was packed with plenty of other people, all looking nervously over their shoulders toward the commotion back at the campsite.  A huddle of teenagers in pajamas was arguing vociferously a little way along the path.  When they saw Harry, Ron, and Hermione, a girl with thick curly hair turned and said quickly, "Oü est Madame Maxime? Nous l'avons perdue -"
+Fred, George, and Ginny were nowhere to be seen, though the path was packed with plenty of other people, all looking nervously over their shoulders toward the commotion back at the campsite.  A huddle of teenagers in pajamas was arguing vociferously a little way along the path.  When they saw Harry, Ron, and Hermione, a girl with thick curly hair turned and said quickly, "OÃ¼ est Madame Maxime? Nous l'avons perdue -"
 "Er - what?" said Ron.
 "Oh. . ." The girl who had spoken turned her back on him, and as they walked on they distinctly heard her say, "Ogwarts."
 "Beauxbatons," muttered Hermione.
@@ -1146,14 +1146,14 @@ Harry turned - Ron was hurriedly scooping up his miniature Krum - the three of t
 Harry whirled around, and in an instant, he registered one fact:  Each of these wizards had his wand out, and every wand was pointing right at himself, Ron, and Hermione.
 Without pausing to think, he yelled, "DUCK!"
 He seized the other two and pulled them down onto the ground.
-"STUPEFY!"  roared twenty voices - there was a blinding series of flashes and Harry felt the hair on his head ripple as though a powerful wind had swept the clearing.  Raising his head a fraction of an inch he saw jets of fiery red light flying over them from the wizards' wands, crossing one another, bouncing off tree trunks, rebounding into the darkness-- 
-"Stop!"  yelled a voice he recognized. "STOP!  That's my son!" 
+"STUPEFY!"  roared twenty voices - there was a blinding series of flashes and Harry felt the hair on his head ripple as though a powerful wind had swept the clearing.  Raising his head a fraction of an inch he saw jets of fiery red light flying over them from the wizards' wands, crossing one another, bouncing off tree trunks, rebounding into the darkness--
+"Stop!"  yelled a voice he recognized. "STOP!  That's my son!"
 Harry's hair stopped blowing about.  He raised his head a little higher. The wizard in front of him had lowered his wand.  He rolled over and saw Mr. Weasley striding toward them, looking terrified.
 "Ron - Harry" - his voice sounded shaky - "Hermione - are you all right?"
 "Out of the way, Arthur," said a cold, curt voice.
 It was Mr. Crouch.  He and the other Ministry wizards were closing in on them. Harry got to his feet to face them.  Mr. Crouch's face was taut with rage.
 "Which of you did it?" he snapped, his sharp eyes darting between them. "Which of you conjured the Dark Mark?"
-"We didn't do that!" said Harry, gesturing up at the skull. 
+"We didn't do that!" said Harry, gesturing up at the skull.
 "We didn't do anything!" said Ron, who was rubbing his elbow and looking indignantly at his father. "What did you want to attack us for?"
 "Do not lie, sir!" shouted Mr. Crouch. His wand was still pointing directly at Ron, and his eyes were popping - he looked slightly mad. "You have been discovered at the scene of the crime!"
 "Barty," whispered a witch in a long woolen dressing gown, "they're kids, Barty, they'd never have been able to
@@ -1183,7 +1183,7 @@ Just then there was another pop, and Ludo Bagman Apparated right next to Mr. Wea
 Mr. Crouch had returned empty-handed.  His face was still ghostly white, and his hands and his toothbrush mustache were both twitching.
 "Where have you been, Barty?" said Bagman. "Why weren't you at the match? Your elf was saving you a seat too - gulping gargoyles!"  Bagman had just noticed Winky lying at his feet.  "What happened to her?"
 "I have been busy, Ludo," said Mr. Crouch, still talking in the same jerky fashion, barely moving his lips.  "And my elf has been stunned."
-"Stunned? By you lot, you mean? But why - ?" 
+"Stunned? By you lot, you mean? But why - ?"
 Comprehension dawned suddenly on Bagman's round, shiny face; he looked up at the skull, down at Winky, and then at Mr. Crouch.
 "No!" he said. "Winky?  Conjure the Dark Mark?  She wouldn't know how!  She'd need a wand, for a start!"
 "And she had one," said Mr. Diggory.  "I found her holding one, Ludo.  If it's all right with you, Mr. Crouch, I think we should hear what she's got to say for herself."
@@ -1285,7 +1285,7 @@ There was silence for a moment. Then Bill, removing the sheet from his arm to ch
 "Yeah, I bet it was!" said Ron suddenly . "Dad, we met Draco Malfoy in the woods, and he as good as told us his dad was one of those nutters in masks!  And we all know the Malfoys were right in with You-Know-Who!"
 "But what were Voldemort's supporters -" Harry began. Everybody flinched - like most of the wizarding world, the Weasleys always avoided saying Voldemort's name. "Sorry," said Harry quickly. "What were You-Know-Who's supporters up to, levitating Muggles? I mean, what was the point?"
 "The point?" said Mr. Weasley with a hollow laugh.  "Harry, that's their idea of fun. Half the Muggle killings back when You-Know-Who was in power were done for fun.  I suppose they had a few drinks tonight and couldn't resist reminding us all that lots of them are still at large.  A nice little reunion for them," he finished disgustedly.
-"But if they were the Death Eaters, why did they Disapparate when they saw the Dark Mark?" said Ron.  "They'd have been pleased to see it, wouldn't they?" 
+"But if they were the Death Eaters, why did they Disapparate when they saw the Dark Mark?" said Ron.  "They'd have been pleased to see it, wouldn't they?"
 "Use your brains, Ron," said Bill. "If they really were Death Eaters, they worked very hard to keep out of Azkaban when You-Know-Who lost power, and told all sorts of lies about him forcing them to kill and torture people.  I bet they'd be even more frightened than the rest of us to see him come back.  They denied they'd ever been involved with him when he lost his powers, and went back to their daily lives. . . . I don't reckon he'd be over-pleased with them, do you?"
 "So. . . whoever conjured the Dark Mark. . ." said Hermione slowly, "were they doing it to show support for the Death Eaters, or to scare them away?"
 "Your guess is as good as ours, Hermione," said Mr. Weasley. "But I'll tell you this. . . it was only the Death Eaters who ever knew how to conjure it. I'd be very surprised if the person who did it hadn't been a Death Eater once, even if they're not now. . Listen, it's very late, and if your mother hears what's happened she'll be worried sick. We'll get a few more hours sleep and then try and get an early Portkey out of here."
@@ -1301,7 +1301,7 @@ CHAPTER TEN - MAYHEM AT THE MINISTRY
 "Oh thank goodness, thank goodness!"
 Mrs. Weasley, who had evidently been waiting for them in the front yard, came running toward them, still wearing her bedroom slippers, her face pale and strained, a rolled-up copy of the Daily Prophet clutched in her hand.
 "Arthur - I've been so worried - so worried-"
-She flung her arms around Mr. Weasley's neck, and the Daily Prophet fell out of her limp hand onto the ground.  Looking down, Harry saw the headline:  SCENES OF TERROR AT THE QUIDDITCH WORLD CUP, complete with a twinkling black-and-white photograph of the Dark Mark over the treetops. 
+She flung her arms around Mr. Weasley's neck, and the Daily Prophet fell out of her limp hand onto the ground.  Looking down, Harry saw the headline:  SCENES OF TERROR AT THE QUIDDITCH WORLD CUP, complete with a twinkling black-and-white photograph of the Dark Mark over the treetops.
 "You're all right," Mrs. Weasley muttered distractedly, releasing Mr. Weasley and staring around at them all with red eyes, "you're alive. . . . Oh boys. .
 And to everybody's surprise, she seized Fred and George and pulled them both into such a tight hug that their heads banged together.
 "Ouch!  Mum - you're strangling us -"
@@ -1408,7 +1408,7 @@ In some trepidation, Harry opened the last parcel on his camp bed. It wasn't as 
 "I'm never wearing them," Ron was saying stubbornly. "Never."
 "Fine," snapped Mrs. Weasley. "Go naked. And, Harry, make sure you get a picture of him.  Goodness knows I could do with a laugh."
 She left the room, slamming the door behind her.  There was a funny spluttering noise from behind them.  Pigwidgeon was choking on an overlarge Owl Treat.
-"Why is everything I own rubbish?" said Ron furiously, striding across the room to unstick Pigwidgeon's beak. 
+"Why is everything I own rubbish?" said Ron furiously, striding across the room to unstick Pigwidgeon's beak.
 
 CHAPTER ELEVEN - ABOARD THE HOGWART EXPRESS
 
@@ -1473,7 +1473,7 @@ But at that moment, the whistle blew, and Mrs. Weasley chivvied them toward the 
 "Oh it was my pleasure, dears," said Mrs. Weasley. "I'd invite you for Christmas, but...well, I expect you're all going to want to stay at Hogwarts, what with. . . one thing and another."
 "Mum!" said Ron irritably.  "What d'you three know that we don't?"
 "You'll find out this evening, I expect," said Mrs. Weasley, smiling. "It's going to be very exciting - mind you, I'm very glad they've changed the rules -"
-"What rules?"  said Harry, Ron, Fred, and George together. 
+"What rules?"  said Harry, Ron, Fred, and George together.
 "I'm sure Professor Dumbledore will tell you. . . . Now, behave, won't you?  Won't you, Fred?  And you, George?"
 The pistons hissed loudly and the train began to move.
 "Tell us what's happening at Hogwarts!"  Fred bellowed out of the window as Mrs. Weasley, Bill, and Charlie sped away from them.  "What rules are they changing?"
@@ -1608,7 +1608,7 @@ Fair Ravenclaw, from glen,
 				I've never yet been wrong,
 				I'll have a look inside your mind
 		And tell where you belong!
- 
+
 The Great Hall rang with applause as the Sorting Hat finished.
 "That's not the song it sang when it Sorted us," said Harry, clapping along with everyone else.
 "Sings a different one every year," said Ron.  "It's got to be a pretty boring life, hasn't it, being a hat?  I suppose it spends all year making up the next one."
@@ -1626,7 +1626,7 @@ The table on the other side of the hall erupted with cheers; Harry could see Mal
  "Cauldwell, Owen!"
 "HUFFLEPUFF!"
 "Creevey, Dennis!"
-Tiny Dennis Creevey staggered forward, tripping over Hagrid's moleskin, just as Hagrid himself sidled into the Hall through a door behind the teachers' table.  About twice as tall as a normal man, and at least three times as broad, Hagrid, with his long, wild, tangled black hair and beard, looked slightly alarming - a misleading impression, for Harry, Ron, and Hermione knew Hagrid to possess a very kind nature.  He winked at them as he sat down at the end of the staff table and watched Dennis Creevey putting on the Sorting Hat.  The rip at the brim opened wide-- - 
+Tiny Dennis Creevey staggered forward, tripping over Hagrid's moleskin, just as Hagrid himself sidled into the Hall through a door behind the teachers' table.  About twice as tall as a normal man, and at least three times as broad, Hagrid, with his long, wild, tangled black hair and beard, looked slightly alarming - a misleading impression, for Harry, Ron, and Hermione knew Hagrid to possess a very kind nature.  He winked at them as he sat down at the end of the staff table and watched Dennis Creevey putting on the Sorting Hat.  The rip at the brim opened wide-- -
 "GRYFFINDOR!" the hat shouted.
 Hagrid clapped along with the Gryffindors as Dennis Creevey, beaming widely, took off the hat, placed it back on the stool, and hurried over to join his brother.
 "Colin, I fell in!"  he said shrilly, throwing himself into an empty seat.  "It was brilliant! And something in the water grabbed me and pushed me back in the boat!"
@@ -1635,7 +1635,7 @@ Hagrid clapped along with the Gryffindors as Dennis Creevey, beaming widely, too
 "Dennis!  Dennis!  See that boy down there?  The one with the black hair and glasses? See him?  Know who he is, Dennis?"
 Harry looked away, staring very hard at the Sorting Hat, now Sorting Emma Dobbs.
 The Sorting continued; boys and girls with varying degrees of fright on their faces moving one by one to the three-legged stool, the line dwindling slowly as Professor McGonagall passed the L's.
-"Oh hurry up," Ron moaned, massaging his stomach. 
+"Oh hurry up," Ron moaned, massaging his stomach.
 "Now, Ron, the Sorting's much more important than food," said Nearly Headless Nick as "Madley, Laura!"  became a Hufflepuff.
 "Course it is, if you're dead," snapped Ron.
 "I do hope this year's batch of Gryffindors are up to scratch," said Nearly Headless Nick, applauding as "McDonald, Natalie!"  joined the Gryffindor table.  "We don't want to break our winning streak, do we?"
@@ -1698,7 +1698,7 @@ Dumbledore cleared his throat.
 "As I was saying," he said, smiling at the sea of students before him, all of whom were still gazing transfixed at Mad-Eye Moody, "we are to have the honor of hosting a very exciting event over the coming months, an event that has not been held for over a century.  It is my very great pleasure to inform you that the Triwizard Tournament will be taking place at Hogwarts this year."
 "You're JOKING!" said Fred Weasley loudly.
 The tension that had filled the Hall ever since Moody's arrival suddenly broke.  Nearly everyone laughed, and Dumbledore chuckled appreciatively.
-"I am not joking, Mr. Weasley," he said, "though now that you mention it, I did hear an excellent one over the summer about a troll, a hag, and a leprechaun who all go into a bar. 
+"I am not joking, Mr. Weasley," he said, "though now that you mention it, I did hear an excellent one over the summer about a troll, a hag, and a leprechaun who all go into a bar.
 Professor McGonagall cleared her throat loudly.
 "Er - but maybe this is not the time.. . no. . ." said Dumbledore, "where was I?  Ah yes, the Triwizard Tournament. . . well, some of you will not know what this tournament involves, so I hope those who do know will forgive me for giving a short explanation, and allow their attention to wander freely.
 "The Triwizard Tournament was first established some seven hundred years ago as a friendly competition between the three largest European schools of wizardry:  Hogwarts, Beauxbatons, and Durmstrang.  A champion was selected to represent each school, and the three champions competed in three magical tasks.  The schools took it in turns to host the tournament once every five years, and it was generally agreed to be a most excellent way of establishing ties between young witches and wizards of different nationalities - until, that is, the death toll mounted so high that the tournament was discontinued."
@@ -1709,7 +1709,7 @@ Professor McGonagall cleared her throat loudly.
 "Eager though I know all of you will be to bring the Triwizard Cup to Hogwarts," he said, "the heads of the participating schools, along with the Ministry of Magic, have agreed to impose an age restriction on contenders this year.  Only students who are of age - that is to say, seventeen years or older - will be allowed to put forward their names for consideration.  This" -- Dumbledore raised his voice slightly, for several people had made noises of outrage at these words, and the Weasley twins were suddenly looking furious - "is a measure we feel is necessary, given that the tournament tasks will still be difficult and dangerous, whatever precautions we take, and it is highly unlikely that students below sixth and seventh year will be able to cope with them.  I will personally be ensuring that no underage student hoodwinks our impartial judge into making them Hog-warts champion."  His light blue eyes twinkled as they flickered over Fred's and George's mutinous faces.  "I therefore beg you not to waste your time submitting yourself if you are under seventeen.
 "The delegations from Beauxbatons and Durmstrang will be arriving in October and remaining with us for the greater part of this year.  I know that you will all extend every courtesy to our foreign guests while they are with us, and will give your whole-hearted support to the Hogwarts champion when he or she is selected.  And now, it is late, and I know how important it is to you all to be alert and rested as you enter your lessons tomorrow morning.  Bedtime! Chop chop!"
 Dumbledore sat down again and turned to talk to Mad-Eye Moody.  There was a great scraping and banging as all the students got to their feet and swarmed toward the double doors into the entrance hall.
-"They can't do that!"  said George Weasley, who had not joined the crowd moving toward the door, but was standing up and glaring at Dumbledore.  "We're seventeen in April, why can't we have a shot?" 
+"They can't do that!"  said George Weasley, who had not joined the crowd moving toward the door, but was standing up and glaring at Dumbledore.  "We're seventeen in April, why can't we have a shot?"
 "They're not stopping me entering," said Fred stubbornly, also scowling at the top table. "The champions'll get to do all sorts of stuff you'd never be allowed to do normally.  And a thousand Galleons prize money!"
 "Yeah," said Ron, a faraway look on his face.  "Yeah, a thousand Galleons. . ."
 "Come on," said Hermione, "we'll be the only ones left here if you don't move."
@@ -1734,7 +1734,7 @@ Harry, Ron, and Neville got into their pajamas and into bed.  Someone - a house-
 "I might go in for it, you know," Ron said sleepily through the darkness, "if Fred and George find out how to. . . the tournament. . . you never know, do you?"
  "S'pose not. .. ."
 Harry rolled over in bed, a series of dazzling new pictures forming in his mind's eye. . . . He had hoodwinked the impartial judge into believing he was seventeen. . . he had become Hogwarts champion. . . he was standing on the grounds, his arms raised in triumph in front of the whole school, all of whom were applauding and screaming. . . he had just won the Triwizard Tournament.  Cho's face stood out particularly clearly in the blurred crowd, her face glowing with admiration....
-Harry grinned into his pillow, exceptionally glad that Ron couldn't see what he could. 
+Harry grinned into his pillow, exceptionally glad that Ron couldn't see what he could.
 
 CHAPTER THIRTEEN - MAD-EYE MOODY
 
@@ -1762,7 +1762,7 @@ Hagrid pointed down into the crates.
 "Eurgh!"  squealed Lavender Brown, jumping backward.  "Eurgh" just about summed up the Blast-Ended Skrewts in Harry's opinion.  They looked like deformed, shell-less lobsters, horribly pale and slimy-looking, with legs sticking out in very odd places and no visible heads. There were about a hundred of them in each crate, each about six inches long, crawling over one another, bumping blindly into the sides of the boxes.  They were giving off a very powerful smell of rotting fish.  Every now and then, sparks would fly out of the end of a skrewt, and with a small phut, it would be propelled forward several inches.
 "On'y jus' hatched," said Hagrid proudly, "so yeh'll be able ter raise 'em yerselves! Thought we'd make a bit of a project of it!"
 "And why would we want to raise them?" said a cold voice.
-The Slytherins had arrived.  The speaker was Draco Malfoy.  Crabbe and Goyle were chuckling appreciatively at his words.	
+The Slytherins had arrived.  The speaker was Draco Malfoy.  Crabbe and Goyle were chuckling appreciatively at his words.
 Hagrid looked stumped at the question.
 "I mean, what do they do?" asked Malfoy. "What is the point of them?"
 Hagrid opened his mouth, apparently thinking hard; there was a few seconds' pause, then he said roughly, "Tha's next lesson, Malfoy.  Yer jus' feedin' 'em today.  Now, yeh'll wan' ter try 'em on a few diff'rent things - I've never had 'em before, not sure what they'll go fer - I got ant eggs an' frog livers an' a bit o' grass snake - just try 'em out with a bit of each."
@@ -1853,8 +1853,8 @@ There was a terrified silence in the entrance hall.  Nobody but Moody was moving
 Moody started to limp toward Crabbe, Goyle, and the ferret, which gave a terrified squeak and took off, streaking toward the dungeons.
 "I don't think so!" roared Moody, pointing his wand at the ferret again - it flew ten feet into the air, fell with a smack to the floor, and then bounced upward once more.
 "I don't like people who attack when their opponent's back's turned," growled Moody as the ferret bounced higher and higher, squealing in pain.  "Stinking, cowardly, scummy thing to do..."
-The ferret flew through the air, its legs and tail flailing helplessly.  
-"Never - do - that - again -" said Moody, speaking each word as the ferret hit the stone floor and bounced upward again. 
+The ferret flew through the air, its legs and tail flailing helplessly.
+"Never - do - that - again -" said Moody, speaking each word as the ferret hit the stone floor and bounced upward again.
 "Professor Moody!"  said a shocked voice.
 Professor McGonagall was coming down the marble staircase with her arms full of books.
 "Hello, Professor McGonagall," said Moody calmly, bouncing the ferret still higher.
@@ -1897,12 +1897,12 @@ Fred, George, and Lee exchanged looks full of meaning.
 "He's seen it all," said George.
 "Mazing," said Lee.
 Ron dived into his bag for his schedule.
-"We haven't got him till Thursday!"  he said in a disappointed voice. 
+"We haven't got him till Thursday!"  he said in a disappointed voice.
 
 CHAPTER FOURTEEN - THE UNFORGIVABLE CURSES
 
 		The next two days passed without great incident, unless you counted Neville melting his sixth cauldron in Potions.  Professor Snape, who seemed to have attained new levels of vindictiveness over the summer, gave Nevihle detention, and Neville returned from it in a state of nervous collapse, having been made to disembowel a barrel full of horned toads.
-		"You know why Snape's in such a foul mood, don't you?" said Ron to Harry as they watched Hermione teaching Neville a Scouring Charm to remove the frog guts from under his fingernails. 
+		"You know why Snape's in such a foul mood, don't you?" said Ron to Harry as they watched Hermione teaching Neville a Scouring Charm to remove the frog guts from under his fingernails.
 		"Yeah," said Harry.  "Moody."
 		It was common knowledge that Snape really wanted the Dark Arts job, and he had now failed to get it for the fourth year running.  Snape had disliked all of their previous Dark Arts teachers, and shown it - but he seemed strangely wary of displaying overt animosity to Mad-Eye Moody.  Indeed, whenever Harry saw the two of them together - at mealtimes, or when they passed in the corridors - he had the distinct impression that Snape was avoiding Moody's eye, whether magical or normal.
 "I reckon Snape's a bit scared of him, you know," Harry said thoughtfully.
@@ -2065,12 +2065,12 @@ Harry hastily untied it and sat down to read, whereupon Hedwig fluttered onto hi
 "What does it say?" Hermione asked breathlessly.
 The letter was very short, and looked as though it had been scrawled in a great hurry. Harry read it aloud:
 
-Harry - 
+Harry -
 I'm flying north immediately. This news about your scar is the latest in a series of strange rumors that have reached me here. If it hurts again, go straight to Dumbledore - they're saying he's got Mad-Eye out of retirement, which means he's reading the signs, even if no one else is.
 I'll be in touch soon. My best to Ron and Hermione. Keep your eyes open, Harry.
 Sirius
 
-Harry looked up at Ron and Hermione, who stared back at him. 
+Harry looked up at Ron and Hermione, who stared back at him.
 "He's flying north?"  Hermione whispered. "He's coming back?"
  "Dumbledore's reading what signs?" said Ron, looking perplexed.  "Harry - what's up?"
 For Harry had just hit himself in the forehead with his fist, jolting Hedwig out of his lap.
@@ -2231,13 +2231,13 @@ Her face relaxed into a gracious smile and she walked forward toward Dumbledore,
 Harry, whose attention had been focused completely upon Madame Maxime, now noticed that about a dozen boys and girls, all, by the look of them, in their late teens, had emerged from the carriage and were now standing behind Madame Maxime.  They were shivering, which was unsurprising, given that their robes seemed to be made of fine silk, and none of them were wearing cloaks.  A few had wrapped scarves and shawls around their heads.  From what Harry could see of them (they were standing in Madame Maxime's enormous shadow), they were staring up at Hogwarts with apprehensive looks on their faces.
 "As Karkaroff arrived yet?"  Madame Maxime asked.
 "He should be here any moment," said Dumbledore.  "Would you like to wait here and greet him or would you prefer to step inside and warm up a trifle?"
- "Warm up, I think," said Madame Maxime. "But ze 'orses -" 
+ "Warm up, I think," said Madame Maxime. "But ze 'orses -"
  "Our Care of Magical Creatures teacher will be delighted to take care of them," said Dumbledore, "the moment he has returned from dealing with a slight situation that has arisen with some of his other - er - charges."
 "Skrewts," Ron muttered to Harry, grinning.
 "My steeds require - er - forceful 'andling," said Madame Maxime, looking as though she doubted whether any Care of Magical Creatures teacher at Hogwarts could be up to the job.  "Zey are very strong. . . ."
 "I assure you that Hagrid will be well up to the job," said Dumbledore, smiling.
 "Very well," said Madame Maxime, bowing slightly. "Will you please inform zis 'Agrid zat ze 'orses drink only single-malt whiskey?"
-"It will be attended to," said Dumbledore, also bowing. 
+"It will be attended to," said Dumbledore, also bowing.
 "Come," said Madame Maxime imperiously to her students, and the Hogwarts crowd parted to allow her and her students to pass up the stone steps.
 "How big d'you reckon Durmstrang's horses are going to be?"  Seamus Finnigan said, leaning around Lavender and Parvati to address Harry and Ron.
 "Well, if they're any bigger than this lot, even Hagrid won't be able to handle them," said Harry.  "That's if he hasn't been attacked by his skrewts.  Wonder what's up with them?"
@@ -2405,7 +2405,7 @@ Hagrid was wearing his best (and very horrible) hairy brown suit, plus a checked
 "Out by the pumpkin patch," said Hagrid happily.  "They're get-tin' massive, mus' be nearly three foot long now.  On'y trouble is, they've started killin' each other."
 "Oh no, really?"  said Hermione, shooting a repressive look at Ron, who, staring at Hagrid's odd hairstyle, had just opened his mouth to say something about it.
 "Yeah," said Hagrid sadly. "S' okay, though, I've got 'em in separate boxes now.  Still got abou' twenty."
-"Well, that's lucky," said Ron. Hagrid missed the sarcasm. 
+"Well, that's lucky," said Ron. Hagrid missed the sarcasm.
 Hagrid's cabin comprised a single room, in one corner of which was a gigantic bed covered in a patchwork quilt.  A similarly enormous wooden table and chairs stood in front of the fire beneath the quantity of cured hams and dead birds hanging from the ceiling.  They sat down at the table while Hagrid started to make tea, and were soon immersed in yet more discussion of the Triwizard Tournament.  Hagrid seemed quite as excited about it as they were.
 "You wait," he said, grinning.  "You jus' wait.  Yer going ter see some stuff yeh've never seen before.  Firs' task. . . ah, but I'm not supposed ter say."
 "Go on, Hagrid!" Harry, Ron, and Hermione urged him, but he just shook his head, grinning.
@@ -2457,7 +2457,7 @@ And the Goblet of Fire turned red once more; sparks showered out of it; the tong
 "Excellent!" Dumbledore called happily as at last the tumult died down.  "Well, we now have our three champions.  I am sure I can count upon all of you, including the remaining students from Beauxbatons and Durmstrang, to give your champions every ounce of support you can muster.  By cheering your champion on, you will contribute in a very real --"
 But Dumbledore suddenly stopped speaking, and it was apparent to everybody what had distracted him.
 The fire in the goblet had just turned red again. Sparks were flying out of it. A long flame shot suddenly into the air, and borne upon it was another piece of parchment.
-Automatically, it seemed, Dumbledore reached out a long hand and seized the 
+Automatically, it seemed, Dumbledore reached out a long hand and seized the
 parchment.  He held it out and stared at the name written upon it.  There was a long pause, during which Dumbledore stared at the slip in his hands, and everyone in the room stared at Dumbledore.  And then Dumbledore cleared his throat and read out - "Harry Potter."
 
 CHAPTER SEVENTEEN - THE FOUR CHAMPIONS
@@ -2645,7 +2645,7 @@ You told me to keep you posted on what's happening at Hogwarts, so here goes - I
 
 		He paused at this point, thinking. He had an urge to say something about the large weight of anxiety that seemed to have settled inside his chest since last night, but he couldn't think how to translate this into words, so he simply dipped his quill back into the ink bottle and wrote,
 		Hope you're okay, and Buckbeak  -  Harry
-	 
+
 "Finished," he told Hermione, getting to his feet and brushing straw off his robes.  At this, Hedwig fluttered down onto his shoulder and held out her leg.
 		"I can't use you," Harry told her, looking around for the school owls.  "I've got to use one of these."
 		Hedwig gave a very loud hoot and took off so suddenly that her talons cut into his shoulder.  She kept her back to Harry all the time he was tying his letter to the leg of a large barn owl.  When the barn owl had flown off, Harry reached out to stroke Hedwig, but she clicked her beak furiously and soared up into the rafters out of reach.
@@ -2755,12 +2755,12 @@ Rita Skeeter's smile widened.  Harry counted three gold teeth.  She reached agai
 "Testing. . . my name is Rita Skeeter, Daily Prophet reporter."
 Harry hooked down quickly at the quill. The moment Rita Skeeter had spoken, the green quill had started to scribble, skidding across the parchment:
 
-Attractive blonde Rita Skeeter, forty-three, who's savage quill has punctured many inflated reputations - 
+Attractive blonde Rita Skeeter, forty-three, who's savage quill has punctured many inflated reputations -
 
 "Lovely," said Rita Skeeter, yet again, and she ripped the top piece of parchment off, crumpled it up, and stuffed it into her handbag.  Now she leaned toward Harry and said, "So, Harry... what made you decide to enter the Triwizard Tournament?"
 "Er -" said Harry again, but he was distracted by the quill.  Even though he wasn't speaking, it was dashing across the parchment, and in its wake he could make out a fresh sentence:
 
-An ugly scar, souvenier of a tragic past, disfigures the otherwise charming face of Harry Potter, whose eyes -- 
+An ugly scar, souvenier of a tragic past, disfigures the otherwise charming face of Harry Potter, whose eyes --
 
 "Ignore the quill, Harry," said Rita Skeeter firmly.  Reluctantly Harry looked up at her instead.  "Now -- why did you decide to enter the tournament, Harry?"
 "I didn't," said Harry.  "I don't know how my name got into the Goblet of Fire.  I didn't put it in there."
@@ -2775,7 +2775,7 @@ The quill whizzed across the parchment between them, back and forward as though 
 "Of course, you've looked death in the face before, haven't you?"  said Rita Skeeter, watching him closely.  "How would you say that's affected you?"
 "Er," said Harry, yet again.
 "Do you think that the trauma in your past might have made you keen to prove yourself? To live up to your name?  Do you think that perhaps you were tempted to enter the Triwizard Tournament because - "
-"I didn't enter," said Harry, starting to feel irritated.  
+"I didn't enter," said Harry, starting to feel irritated.
 "Can you remember your parents at all?"  said Rita Skeeter, talking over him.
 "No," said Harry.
 "How do you think they'd feel if they knew you were competing in the Triwizard Tournament?  Proud?  Worried?  Angry?"
@@ -2803,7 +2803,7 @@ So Fleur was part veela, thought Harry, making a mental note to tell Ron. . . th
 "Yes," said Mr. Ollivander, "yes, I've never used veela hair myself, of course.  I find it makes for rather temperamental wands...however, to each his own, and if this suits you.."
 Mr. Ollivander ran his fingers along the wand, apparently checking for scratches or bumps; then he muttered, "Orchideous!"  and a bunch of flowers burst from the wand tip.
 "Very well, very well, it's in fine working order," said Mr. Ollivander, scooping up the flowers and handing them to Fleur with her wand.  "Mr. Diggory, you next."
-Fleur glided back to her seat, smiling at Cedric as he passed her. 
+Fleur glided back to her seat, smiling at Cedric as he passed her.
 "Ah, now, this is one of mine, isn't it?" said Mr. Ollivander, with much more enthusiasm, as Cedric handed over his wand.  "Yes, I remember it well.  Containing a single hair from the tail of a particularly fine male unicorn. . . must have been seventeen hands; nearly gored me with his horn after I plucked his tail.  Twelve and a quarter inches. . . ash. . . pleasantly springy.  It's in fine condition...You treat it regularly?"
 "Polished it last night," said Cedric, grinning.
 Harry hooked down at his own wand.  He could see finger marks all over it.  He gathered a fistful of robe from his knee and tried to rub it clean surreptitiously.  Several gold sparks shot out of the end of it.  Fleur Delacour gave him a very patronizing look, and he desisted.
@@ -2830,7 +2830,7 @@ Harry went down to dinner.  Hermione wasn't there - he supposed she was still in
 "Oh - right," said Harry.
 "And we've got to do our detentions tomorrow night, Snape's dungeon," said Ron.
 He then walked straight out of the room, not looking at Harry.  For a moment, Harry considered going after him - he wasn't sure whether he wanted to talk to him or hit him, both seemed quite appealing - but the lure of Sirius's answer was too strong.  Harry strode over to the barn owl, took the letter off its leg, and unrolled it.
-	Harry - 
+	Harry -
 		I can't say everything I would like to in a letter, it's too risky
 in case the owl is intercepted - we need to talk face-to-face.  Can you ensure that you are alone by the fire in Gryffindor Tower at one o'clock in the morning on the 22nd ofNovember?
 	I know better than anyone that you can look after yourself and while you're around Dumbledore and Moody I don't think anyone will be able to hurt you.  However, someone seems to be having a good try. Entering you in that tournament would have been very risky, especially right under Dumbkdore's nose.
@@ -2859,7 +2859,7 @@ From the moment the article had appeared, Harry had had to endure people --Slyth
 "No - it was just - you dropped your quill."
 It was Cho.  Harry felt the color rising in his face.
 "Oh - right - sorry," he muttered, taking the quill back.
-"Er. . . good luck on Tuesday," she said.  "I really hope you do well." 
+"Er. . . good luck on Tuesday," she said.  "I really hope you do well."
 Which left Harry feeling extremely stupid.
 Hermione had come in for her fair share of unpleasantness too, but she hadn't yet started yelling at innocent bystanders; in fact, Harry was full of admiration for the way she was handling the situation.
 "Stunningly pretty? Her?"  Pansy Parkinson had shrieked the first time she had come face-to-face with Hermione after Rita's article had appeared.  "What was she judging against - a chipmunk?"
@@ -2977,7 +2977,7 @@ By the looks of it, the only champion who would be facing the unknown on Tuesday
 Harry reached the castle, slipped in through the front doors, and began to climb the marble stairs; he was very out of breath, but he didn't dare slow down. . . . He had less than five minutes to get up to the fire.
 "Balderdash!" he gasped at the Fat Lady, who was snoozing in her frame in front of the portrait hole.
 "If you say so," she muttered sleepily, without opening her eyes, and the picture swung forward to admit him.  Harry climbed inside.  The common room was deserted, and, judging by the fact that it smelled quite normal, Hermione had not needed to set off any Dungbombs to ensure that he and Sirius got privacy.
-Harry pulled off the Invisibility Cloak and threw himself into an armchair in front of the fire.  The room was in semidarkness; the flames were the only source of light.  Nearby, on a table, the Support Cedric Diggory! badges the Creeveys had been trying to improve were glinting in the firelight.  They now read POTTER REALLY STINKS.  Harry looked back into the flames, and jumped.  
+Harry pulled off the Invisibility Cloak and threw himself into an armchair in front of the fire.  The room was in semidarkness; the flames were the only source of light.  Nearby, on a table, the Support Cedric Diggory! badges the Creeveys had been trying to improve were glinting in the firelight.  They now read POTTER REALLY STINKS.  Harry looked back into the flames, and jumped.
 Sirius's head was sitting in the fire.  If Harry hadn't seen Mr. Diggory do exactly this back in the Weasleys' kitchen, it would have scared him out of his wits.  Instead, his face breaking into the first smile he had worn for days, he scrambled out of his chair, crouched down by the hearth, and said, "Sirius - how're you doing?"
 Sirius looked different from Harry's memory of him.  When they had said good-bye, Sirius's face had been gaunt and sunken, surrounded by a quantity of long, black, matted hair - but the hair was short and clean now, Sirius's face was fuller, and he looked younger, much more like the only photograph Harry had of him, which had been taken at the Potters' wedding.
 "Never mind me, how are you?" said Sirius seriously.
@@ -2992,7 +2992,7 @@ Sirius looked at him, eyes full of concern, eyes that had not yet lost the look 
 "He did a deal with the Ministry of Magic," said Sirius bitterly.  "He said he'd seen the error of his ways, and then he named names. . . he put a load of other people into Azkaban in his place. . . . He's not very popular in there, I can tell you.  And since he got out, from what I can tell, he's been teaching the Dark Arts to every student who passes through that school of his.  So watch out for the Durmstrang champion as well."
 "Okay," said Harry slowly.  "But. . . are you saying Karkaroff put my name in the goblet?  Because if he did, he's a really good actor.  He seemed furious about it.  He wanted to stop me from competing."
 "We know he's a good actor," said Sirius, "because he convinced the Ministry of Magic to set him free, didn't he?  Now, I've been keeping an eye on the Daily Prophet, Harry.."
-"- you and the rest of the world," said Harry bitterly. 
+"- you and the rest of the world," said Harry bitterly.
 "- and reading between the lines of that Skeeter woman's article last month, Moody was attacked the night before he started at Hogwarts.  Yes, I know she says it was another false alarm," Sirius said hastily, seeing Harry about to speak, "but I don't think so, somehow.  I think someone tried to stop him from getting to Hogwarts.  I think someone knew their job would be a lot more difficult with him around.  And no one's going to look into it too closely; Mad-Eye's heard intruders a bit too often.  But that doesn't mean he can't still spot the real thing.  Moody was the best Auror the Ministry ever had."
 "So. . . what are you saying?"  said Harry slowly.  "Karkaroff's trying to kill me?  But - why?"
 Sirius hesitated.
@@ -3009,7 +3009,7 @@ Sirius hesitated.
 "But you can do it alone," said Sirius.  "There is away, and a simple spell's all you need. Just -"
 But Harry held up a hand to silence him, his heart suddenly pounding as though it would burst.  He could hear footsteps coming down the spiral staircase behind him.
 "Go!"  he hissed at Sirius. " Go!  There's someone coming!"
-Harry scrambled to his feet, hiding the fire - if someone saw Sirius's face within the walls of Hogwarts, they would raise an almighty uproar - the Ministry would get dragged in - he, Harry, would be questioned about Sirius's whereabouts - 
+Harry scrambled to his feet, hiding the fire - if someone saw Sirius's face within the walls of Hogwarts, they would raise an almighty uproar - the Ministry would get dragged in - he, Harry, would be questioned about Sirius's whereabouts -
 Harry heard a tiny pop! in the fire behind him and knew Sirius had gone.  He watched the bottom of the spiral staircase.  Who had decided to go for a stroll at one o'clock in the morning, and stopped Sirius from telling him how to get past a dragon?
 It was Ron. Dressed in his maroon paisley pajamas, Ron stopped dead facing Harry across the room, and looked around.
 "Who were you talking to?" he said.
@@ -3055,7 +3055,7 @@ This was exactly what Harry had been hoping for.  He slipped his wand back into 
 Cedric stared at him.  Harry saw some of the panic he'd been feeling since Saturday night flickering in Cedric's gray eyes.
 "Are you sure?" Cedric said in a hushed voice.
 "Dead sure," said Harry. "I've seen them."
-"But how did you find out?  We're not supposed to know. . . ." 
+"But how did you find out?  We're not supposed to know. . . ."
 "Never mind," said Harry quickly - he knew Hagrid would be in trouble if he told the truth.  "But I'm not the only one who knows.  Fleur and Krum will know by now - Maxime and Karkaroff both saw the dragons too."
 Cedric straightened up, his arms full of inky quills, parchment, and books, his ripped bag dangling off one shoulder.  He stared at Harry, and there was a puzzled, almost suspicious look in his eyes.
 "Why are you telling me?" he asked.
@@ -3090,13 +3090,13 @@ Moody gave another harsh laugh, and his magical eye swiveled around so fast it m
 "Well, I'm not going to tell you," said Moody gruffly.  "I don't show favoritism, me.  I'm just going to give you some good, general advice.  And the first bit is - play to your strengths."
 "I haven't got any," said Harry, before he could stop himself.  "Excuse me," growled Moody, "you've got strengths if I say you've got them.  Think now.  What are you best at?"
 Harry tried to concentrate.  What was he best at?  Well, that was easy, really --
-"Quidditch," he said dully, "and a fat lot of help -" 
+"Quidditch," he said dully, "and a fat lot of help -"
 "That's right," said Moody, staring at him very hard, his magical eye barely moving at all.  "You're a damn good flier from what I've heard."
 "Yeah, but.. ." Harry stared at him.  "I'm not allowed a broom, I've only got my wand..."
 "My second piece of general advice," said Moody loudly, interrupting him, "is to use a nice, simple spell that will enable you to get what you need."
  Harry looked at him blankly.  What did he need?
 "Come on, boy. . ." whispered Moody.  "Put them together... it's not that difficult..."
-And it clicked.  He was best at flying.  He needed to pass the dragon in the air.  For that, he needed his Firebolt.  And for his Fire-bolt, he needed - 
+And it clicked.  He was best at flying.  He needed to pass the dragon in the air.  For that, he needed his Firebolt.  And for his Fire-bolt, he needed -
 
 "Hermione," Harry whispered, when he had sped into greenhouse three minutes later, uttering a hurried apology to Professor Sprout as he passed her.  "Hermione - I need you to help me."
 "What d'you think I've been trying to do, Harry?"  she whispered back, her eyes round with anxiety over the top of the quivering Flutterby Bush she was pruning.
@@ -3175,7 +3175,7 @@ This was just another Quidditch match, that was all. . . just another Quidditch 
 He looked down at the clutch of eggs and spotted the gold one, gleaming against its cement-colored fellows, residing safely between the dragon's front legs.  "Okay," Harry told himself, "diversionary tactics. . . let's go. . ."
 He dived.  The Horntail's head followed him; he knew what it was going to do and pulled out of the dive just in time; a jet of fire had been released exactly where he would have been had he not swerved away. . . but Harry didn't care.. . that was no more than dodging a Bludger.
 "Great Scott, he can fly!"  yelled Bagman as the crowd shrieked and gasped.  "Are you watching this, Mr. Krum?"
-		Harry soared higher in a circle; the Horntail was still following his progress; its head revolving on its long neck - if he kept this up, it would be nicely dizzy - but better not push it too long, or it would be breathing fire again - 
+		Harry soared higher in a circle; the Horntail was still following his progress; its head revolving on its long neck - if he kept this up, it would be nicely dizzy - but better not push it too long, or it would be breathing fire again -
 		Harry plummeted just as the Horntail opened its mouth, but this time he was less lucky - he missed the flames, but the tail came whipping up to meet him instead, and as he swerved to the left, one of the long spikes grazed his shoulder, ripping his robes --
 		He could feel it stinging, he could hear screaming and groans from the crowd, but the cut didn't seem to be deep. . . . Now he zoomed around the back of the Horntail, and a possibility occurred to him....
 		The Horntail didn't seem to want to take off, she was too protective of her eggs. Though she writhed and twisted, furling and unfurling her wings and keeping those fearsome yellow eyes on Harry, she was afraid to move too far from them. . . but he had to persuade her to do it, or he'd never get near them. . . . The trick was to do it carefully, gradually....
@@ -3183,8 +3183,8 @@ He dived.  The Horntail's head followed him; he knew what it was going to do and
 		He flew higher.  The Horntail's head rose with him, her neck now stretched to its fullest extent, still swaying, hike a snake before its charmer. . .
 		Harry rose a few more feet, and she let out a roar of exasperation.  He was like a fly to her, a fly she was longing to swat; her tail thrashed again, but he was too high to reach now. . . . She shot fire into the air, which he dodged.. . . Her jaws opened wide....
 "Come on," Harry hissed, swerving tantalizingly above her, "come on, come and get me. . . up you get now. ."
-And then she reared, spreading her great, black, leathery wings at last, as wide as those of a small airplane - and Harry dived.  Before the dragon knew what he had done, or where he had disappeared to, he was speeding toward the ground as fast as he could go, toward the eggs now unprotected by her clawed front legs - he had taken his hands off his Firebolt - he had seized the golden egg - 
-And with a huge spurt of speed, he was off, he was soaring out over the stands, the heavy egg safely under his uninjured arm, and it was as though somebody had just turned the volume back up - for the first time, he became properly aware of the noise of the crowd, which was screaming and applauding as loudly as the Irish supporters at the World Cup - 
+And then she reared, spreading her great, black, leathery wings at last, as wide as those of a small airplane - and Harry dived.  Before the dragon knew what he had done, or where he had disappeared to, he was speeding toward the ground as fast as he could go, toward the eggs now unprotected by her clawed front legs - he had taken his hands off his Firebolt - he had seized the golden egg -
+And with a huge spurt of speed, he was off, he was soaring out over the stands, the heavy egg safely under his uninjured arm, and it was as though somebody had just turned the volume back up - for the first time, he became properly aware of the noise of the crowd, which was screaming and applauding as loudly as the Irish supporters at the World Cup -
 "Look at that!" Bagman was yelling. "Will you look at that! Our youngest champion is quickest to get his egg!  Well, this is going to shorten the odds on Mr. Potter!"
 Harry saw the dragon keepers rushing forward to subdue the Horntail, and, over at the entrance to the enclosure, Professor McGonagalh, Professor Moody, and Hagrid hurrying to meet him, all of them waving him toward them, their smiles evident even from this distance.  He flew back over the stands, the noise of the crowd pounding his eardrums, and came in smoothly to land, his heart lighter than it had been in weeks. . . . He had got through the first task, he had survived.
 "That was excellent, Potter!"  cried Professor McGonagall as he got off the Firebolt - which from her was extravagant praise.  He noticed that her hand shook as she pointed at his shoulder.  "You'll need to see Madam Pomfrey before the judges give out your score. . . . Over there, she's had to mop up Diggory already. . . ."
@@ -3205,12 +3205,12 @@ But Harry was looking at Ron, who was very white and staring at Harry as though 
 It was as though the last few weeks had never happened - as though Harry were meeting Ron for the first time, right after he'd been made champion.
 "Caught on, have you?"  said Harry coldly.  "Took you long enough."
 Hermione stood nervously between them, looking from one to the other.  Ron opened his mouth uncertainly.  Harry knew Ron was about to apologize and suddenly he found he didn't need to hear it.
-"It's okay," he said, before Ron could get the words out.  "Forget it." 
+"It's okay," he said, before Ron could get the words out.  "Forget it."
 "No," said Ron, "I shouldn't've -"
 "Forget it, "Harry said.
-Ron grinned nervously at him, and Harry grinned back 
+Ron grinned nervously at him, and Harry grinned back
 Hermione burst into tears.
-"There's nothing to cry about!"  Harry told her, bewildered.  
+"There's nothing to cry about!"  Harry told her, bewildered.
 "You two are so stupid!" she shouted, stamping her foot on the ground, tears splashing down her front.  Then, before either of them could stop her, she had given both of them a hug and dashed away, now positively howling.
 "Barking mad," said Ron, shaking his head.  "Harry, c'mon, they'll be putting up your scores. . . ."
 Picking up the golden egg and his Firebolt, feeling more elated than he would have believed possible an hour ago, Harry ducked out of the tent, Ron by his side, talking fast.
@@ -3526,7 +3526,7 @@ Hermione let out a sputter of indignation.
 "Her acne's loads better lately - and she's really nice!"
 "Her nose is off-center," said Ron.
 "Oh I see," Hermione said, bristling.  "So basically, you're going to take the best-looking girl who'll have you, even if she's completely horrible?"
-"Er - yeah, that sounds about right," said Ron.  
+"Er - yeah, that sounds about right," said Ron.
 "I'm going to bed,"   Hermione snapped, and she swept off toward the girls' staircase without another word.
 
 The Hogwarts staff, demonstrating a continued desire to impress the visitors from Beauxbatons and Durmstrang, seemed determined to show the castle at its best this Christmas. When the decorations went up.  Harry noticed that they were the most stunning he had yet seen inside the school.  Everlasting icicles had been attached to the banisters of the marble staircase; the usual twelve Christmas trees in the Great Hall were bedecked with everything from luminous holly berries to real, hooting, golden owls, and the suits of armor had all been bewitched to sing carols whenever anyone passed them.  It was quite something to hear "0 Come, All Ye Faithful" sung by an empty helmet that only knew half the words.  Several times, Filch the caretaker had to extract Peeves from inside the armor, where he had taken to hiding, filling in the gaps in the songs with lyrics of his own invention, all of which were very rude.
@@ -3892,10 +3892,10 @@ Harry had not forgotten the hint that Cedric had given him, but his less-than-fr
 Snow was still thick upon the grounds, and the greenhouse windows were covered in condensation so thick that they couldn't see out of them in Herbology.  Nobody was looking forward to Care of Magical Creatures much in this weather, though as Ron said, the skrewts would probably warm them up nicely, either by chasing them, or blasting off so forcefully that Hagrid's cabin would catch fire.
 When they arrived at Hagrid 's cabin, however, they found an elderly witch with closely cropped gray hair and a very prominent chin standing before his front door.
 "Hurry up, now, the bell rang five minutes ago," she barked at them as they struggled toward her through the snow.
-"Who're you?" said Ron, staring at her.  "Wheres Hagrid?" 
-"My name is Professor Grubbly-Plank," she said briskly. "I am your temporary Care of Magical Creatures teacher." 
-"Where's Hagrid?" Harry repeated loudly. 
-"He is indisposed," said Professor Grubbly-Plank shortly. 
+"Who're you?" said Ron, staring at her.  "Wheres Hagrid?"
+"My name is Professor Grubbly-Plank," she said briskly. "I am your temporary Care of Magical Creatures teacher."
+"Where's Hagrid?" Harry repeated loudly.
+"He is indisposed," said Professor Grubbly-Plank shortly.
 Soft and unpleasant laughter reached Harrys ears. He turned; Draco Malfoy and the rest of the Slytherins were joining the class.  All of them looked gleeful, and none of them looked surprised to see Professor Grubbly-Plank.
 "This way, please," said Professor Grubbly-Plank, and she strode off around the paddock where the Beauxbatons horses were shivering.  Harry, Ron, and Hermione followed her, looking back over their shoulders at Hagrid's cabin.  All the curtains were closed.  Was Hagrid in there, alone and ill?
 "What's wrong with Hagrid?"  Harry said, hurrying to catch up with Professor Grubbly-Plank.
@@ -3948,7 +3948,7 @@ Hermione's mouth fell open as she read.  Her reaction was exactly the same as Ro
 "Maybe she heard him telling Madame Maxime at the ball," said Hermione quietly.
 "We'd have seen her in the garden!" said Ron. "Anyway, she's not supposed to come into school anymore, Hagrid said Dumbledore banned her. . . ."
 "Maybe she's got an Invisibility Cloak," said Harry, ladling chicken casserole onto his plate and splashing it everywhere in his anger.  "Sort of thing she'd do, isn't it, hide in bushes listening to people."
-"Like you and Ron did, you mean," said Hermione.  
+"Like you and Ron did, you mean," said Hermione.
 "We weren't trying to hear him!" said Ron indignantly.  "We didn't have any choice!  The stupid prat, talking about his giantess mother where anyone could have heard him!"
 "We've got to go and see him," said Harry. "This evening, after Divination. Tell him we want him back . . . you do want him back?" he shot at Hermione.
 "I - well, I'm not going to pretend it didn't make a nice change, having a proper Care of Magical Creatures lesson for once - but I do want Hagrid back, of course I do!"  Hermione added hastily, quailing under Harry's furious stare.
@@ -4005,7 +4005,7 @@ Bagman looked almost affronted, but couldn't say much more as Fred and George tu
 "Er . . . no," said Bagman, with a last disappointed glance at Harry, "no, thank you, boys ..."
 Fred and George looked quite as disappointed as Bagman, who was surveying Harry as though he had let him down badly.
 "Well, I must dash," he said. "Nice seeing you all. Good luck, Harry."
-He hurried out of the pub.  The goblins all slid off their chairs and exited after him. Harry went to rejoin Ron and Hermione.  
+He hurried out of the pub.  The goblins all slid off their chairs and exited after him. Harry went to rejoin Ron and Hermione.
 "What did he want?" Ron said, the moment Harry had sat down.
 "He offered to help me with the golden egg," said Harry.
 "He shouldn't be doing that!" said Hermione, looking very shocked.  "He's one of the judges!  And anyway, you've already worked it out - haven't you?"
@@ -4072,7 +4072,7 @@ Two fat tears leaked out of Hagrid's beetle-black eyes and fell slowly into his 
 Hagrid gulped.  More tears leaked out down his cheeks and into his tangled beard.
 Dumbledore stood up.  "I refuse to accept your resignation, Hagrid, and I expect you back at work on Monday," he said.  "You will join me for breakfast at eight-thirty in the Great Hall.  No excuses.  Good afternoon to you all."
 Dumbledore left the cabin, pausing only to scratch Fangs ears.  When the door had shut behind him, Hagrid began to sob into his dustbin-lid-sized hands.  Hermione kept patting his arm, and at last, Hagrid looked up, his eyes very red indeed, and said, "Great man, Dumbledore . . . great man . .."
-"Yeah, he is," said Ron. "Can I have one of these cakes, Hagrid?" 
+"Yeah, he is," said Ron. "Can I have one of these cakes, Hagrid?"
 "Help yerself," said Hagrid, wiping his eyes on the back of his hand.  "Ar, he's righ', o' course - yeh're all righ' . . .I bin stupid . .. my ol' dad woulda bin ashamed o' the way I've bin behavin'...." More tears leaked out, but he wiped them away more forcefully, and said, "Never shown you a picture of my old dad, have I?  Here..."
 Hagrid got up, went over to his dresser, opened a drawer, and pulled out a picture of a short wizard with Hagrid's crinkled black eyes, beaming as he sat on top of Hagrid's shoulder. Hagrid was a good seven or eight feet tall, judging by the apple tree beside him, but his face was beardless, young, round, and smooth - he looked hardly older than eleven.
 "Tha was taken jus' after I got inter Hogwarts," Hagrid croaked.  "Dad was dead chuffed ... thought I migh' not be a wizard, see, 'cos me mum ... well, anyway.  'Course, I never was great shakes at magic, really... but at least he never saw me expelled.  Died, see, in me second year. . . ."
@@ -4180,11 +4180,11 @@ Snape climbed up the stairs quickly and stopped beside Filch.  Harry gritted his
 "Peeves?" said Snape softly, staring at the egg in Filch's hands.  "But Peeves couldn't get into my office. . . ."
 "This egg was in your office. Professor?"
 "Of course not," Snape snapped.  "I heard banging and wailing -"
-"Yes, Professor, that was the egg -" 
-"- I was coming to investigate -" 
+"Yes, Professor, that was the egg -"
+"- I was coming to investigate -"
 "- Peeves threw it. Professor -"
 "- and when I passed my office, I saw that the torches were lit and a cupboard door was ajar!  Somebody has been searching it!"
-But Peeves couldn't -" 
+But Peeves couldn't -"
 "I know he couldn't, Filch!" Snape snapped again. "I seal my office with a spell none but a wizard could break!"  Snape looked up the stairs, straight through Harry, and then down into the corridor below.  "I want you to come and help me search for the intruder, Filch."
 "I - yes, Professor - but -"
 Filch looked yearningly up the stairs, right through Harry, who could see that he was very reluctant to forgo the chance of cornering Peeves.  Go, Harry pleaded with him silently, go with Snape . . . go. . . Mrs. Norris was peering around Filch's legs.... Harry had the distinct impression that she could smell him.. . . Why had he filled that bath with so much perfumed foam?
@@ -4197,7 +4197,7 @@ Snape stopped talking very abruptly.  He and Filch both looked down at the foot 
 "Shut up!"  Snape hissed to Filch.
 Moody took a step closer to the foot of the stairs.  Harry saw Moodys magical eye travel over Snape, and then, unmistakably, onto himself.
 Harrys heart gave a horrible jolt. Moody could see through Invisibility Cloaks... he alone could see the full strangeness of the scene:
-Snape in his nightshirt, Filch clutching the egg, and he, Harry, trapped in the stairs behind them.  Moody's lopsided gash of a mouth opened in surprise.  For a few seconds, he and Harry stared straight into each other's eyes.  Then Moody closed his mouth and turned his blue eye upon Snape again.  
+Snape in his nightshirt, Filch clutching the egg, and he, Harry, trapped in the stairs behind them.  Moody's lopsided gash of a mouth opened in surprise.  For a few seconds, he and Harry stared straight into each other's eyes.  Then Moody closed his mouth and turned his blue eye upon Snape again.
 "Did I hear that correctly, Snape?" he asked slowly. "Someone broke into your office?"
 "It is unimportant," said Snape coldly.  "On the contrary," growled Moody, "it is very important.  Who'd want to break into your office?"
 "A student, I daresay," said Snape.  Harry could see a vein flickering horribly on Snape's greasy temple.  "It has happened before.  Potion ingredients have gone missing from my private store cupboard ... students attempting illicit mixtures, no doubt...."
@@ -4235,7 +4235,7 @@ There was a pause.  Snape and Moody were still staring at each other, Mrs. Norri
 "It's the property of the champion he stole it from," said Moody.   Hand it over, now."
 Snape swept downstairs and passed Moody without another word.  Filch made a chirruping noise to Mrs. Norris, who stared blankly at Harry for a few more seconds before turning and following her master.  Still breathing very fast.  Harry heard Snape walking away down the corridor; Filch handed Moody the egg and disappeared from view too, muttering to Mrs. Norris. "Never mind. my sweet.. . we'll see Dumbledore in the morning ... tell him what Peeves was up to...."
 A door slammed.  Harry was left staring down at Moody, who placed his staff on the bottommost stair and started to climb laboriously toward him, a dull clunk on every other step.
-"Close shave. Potter," he muttered. 
+"Close shave. Potter," he muttered.
 "Yeah ... I - er ... thanks," said Harry weakly.
 "What is this thing?"  said Moody, drawing the Marauder's Map out of his pocket and unfolding it.
 "Map of Hogwarts," said Harry, hoping Moody was going to pull him out of the staircase soon; his leg was really hurting him.
@@ -4319,7 +4319,7 @@ Today he had managed to capture two unicorn foals.  Unlike full-grown unicorns, 
 "Easier ter spot than the adults," Hagrid told the class.  "They turn silver when they're abou' two years old, an' they grow horns at aroun four.  Don' go pure white till they're full grown, 'round about seven.  They're a bit more trustin when they're babies .. . don mind boys so much.... C'mon, move in a bit, yeh can pat 'em if yeh want. . . give 'em a few o' these sugar lumps. . . .
 "You okay. Harry?"  Hagrid muttered, moving aside slightly, while most of the others swarmed around the baby unicorns.
 "Yeah," said Harry.  "Jus' nervous, eh?"  said Hagrid.
-"Bit," said Harry. 
+"Bit," said Harry.
 "Harry," said Hagrid, clapping a massive hand on his shoulder, so that Harry's knees buckled under its weight, "I'd've bin worried before I saw yeh take on tha Horntail, but I know now yeh can do anythin' yeh set yer mind ter.  I'm not worried at all.  Yeh're goin ter be fine. Got yer clue worked out, haven' yeh?"
 Harry nodded, but even as he did so, an insane urge to confess that he didn't have any idea how to survive at the bottom of the lake for an hour came over him.  He looked up at Hagrid - perhaps he had to go into the lake sometimes, to deal with the creatures in it?  He looked after everything else on the grounds, after all-
 "Yeh're goin' ter win," Hagrid growled, patting Harrys shoulder again, so that Harry actually felt himself sink a couple of inches into the soft ground.  "I know it.  I can feel it.  Yeh're goin' ter win, Harry n
@@ -4424,12 +4424,12 @@ Harry thought he was having a heart attack.  He whipped around and saw Moaning M
 Harry gave her the thumbs-up to show his thanks and set off once more, careful to swim a bit higher over the weed to avoid any more grindylows that might be lurking there.
 He swam on for what felt like at least twenty minutes.  He was passing over vast expanses of black mud now, which swirled murkily as he disturbed the water.  Then, at long last, he heard a snatch of haunting mersong.
 
-"An hour long you'll have to look, 
+"An hour long you'll have to look,
 And to recover what we took..."
 
 Harry swam faster and soon saw a large rock emerge out of the muddy water ahead.  It had paintings of merpeople on it; they were carrying spears and chasing what looked like the giant squid.  Harry swam on past the rock, following the mersong.
 
-". . . your time's half gone, so tarry not 
+". . . your time's half gone, so tarry not
 Lest what you seek stays here to rot. ..."
 
 A cluster of crude stone dwellings stained with algae loomed suddenly out of the gloom on all sides.  Here and there at the dark windows, Harry saw faces . . . faces that bore no resemblance at all to the painting of the mermaid in the prefects' bathroom. . . .
@@ -4523,13 +4523,13 @@ Ron's ears went red, and thereafter, he reverted to the bewitched sleep version 
 As they entered March the weather became drier, but cruel winds skinned their hands and faces every time they went out onto the grounds.  There were delays in the post because the owls kept being blown off course.  The brown owl that Harry had sent to Sirius with the dates of the Hogsmeade weekend turned up at breakfast on Friday morning with half its feathers sticking up the wrong way; Harry had no sooner torn off Sirius's reply than it took flight, clearly afraid it was going to be sent outside again.
 Sirius's letter was almost as short as the previous one.
 
-Be at stile at end of road out of Hogsmeade (past Dervish and 
-Banges) at two o'clock on Saturday afternoon. Bring as much 
+Be at stile at end of road out of Hogsmeade (past Dervish and
+Banges) at two o'clock on Saturday afternoon. Bring as much
 food as you can.
 
-"He hasn't come back to Hogsmeade?" said Ron incredulously.  
-"It looks like it, doesn't it?" said Hermione.  
-"I can't believe him," said Harry tensely, "if he's caught. . ." 
+"He hasn't come back to Hogsmeade?" said Ron incredulously.
+"It looks like it, doesn't it?" said Hermione.
+"I can't believe him," said Harry tensely, "if he's caught. . ."
 "Made it so far, though, hasn't he?" said Ron. "And it's not like the place is swarming with dementors anymore."
 Harry folded up the letter, thinking. If he was honest with himself, he really wanted to see Sirius again. He therefore approached the final lesson of the afternoon - double Potions - feeling considerably more cheerful than he usually did when descending the steps to the dungeons.
 Malfoy, Crabbe, and Goyle were standing in a huddle outside the classroom door with Pansy Parkinson's gang of Slytherin girls.  All of them were looking at something Harry couldn't see and sniggering heartily.  Pansys pug-like face peered excitedly around Goyle's broad back as Harry, Ron, and Hermione approached.
@@ -4680,13 +4680,13 @@ A grin flashed across Sirius's thin face.
 "Well, times like that bring out the best in some people and the worst in others. Crouch's principles might've been good in the beginning - I wouldn't know.  He rose quickly through the Ministry, and he started ordering very harsh measures against Voldemorts supporters.  The Aurors were given new powers - powers to kill rather than capture, for instance.  And I wasn't the only one who was handed straight to the dementors without trial. Crouch fought violence with violence, and authorized the use of the Unforgivable Curses against suspects.  I would say he became as ruthless and cruel as many on the Dark Side.  He had his supporters, mind you - plenty of people thought he was going about things the right way, and there were a lot of witches and wizards clamoring for him to take over as Minister of Magic. When Voldemort disappeared, it looked like only a matter of time until Crouch got the top job. But then something rather unfortunate happened. ..."  Sirius smiled grimly.  "Crouch's own son was caught with a group of Death Eaters who'd managed to talk their way out of Azkaban. Apparently they were trying to find Voldemort and return him to power."
 "Crouch's son was caught?"  gasped Hermione.
 "Yep," said Sirius, throwing his chicken bone to Buckbeak, flinging himself back down on the ground beside the loaf of bread, and tearing it in half.  "Nasty little shock for old Barty, I'd imagine.  Should have spent a bit more time at home with his family, shouldn't he?  Ought to have left the office early once in a while . . . gotten to know his own son."
-He began to wolf down large pieces of bread. 
+He began to wolf down large pieces of bread.
 "Was his son a Death Eater?" said Harry.
-"No idea," said Sirius, still stuffing down bread.  "I was in Azkaban myself when he was brought in.  This is mostly stuff I've found out since I got out.  The boy was definitely caught in the company of people I'd bet my life were Death Eaters - but he might have been in the wrong place at the wrong time, just like the house-elf." 
-"Did Crouch try and get his son off?" Hermione whispered. 
-Sirius let out a laugh that was much more like a bark. 
+"No idea," said Sirius, still stuffing down bread.  "I was in Azkaban myself when he was brought in.  This is mostly stuff I've found out since I got out.  The boy was definitely caught in the company of people I'd bet my life were Death Eaters - but he might have been in the wrong place at the wrong time, just like the house-elf."
+"Did Crouch try and get his son off?" Hermione whispered.
+Sirius let out a laugh that was much more like a bark.
 "Crouch let his son off?  I thought you had the measure of him, Hermione!  Anything that threatened to tarnish his reputation had to go; he had dedicated his whole life to becoming Minister of Magic.  You saw him dismiss a devoted house-elf because she associated him with the Dark Mark again - doesn't that tell you what he's like?  Crouch's fatherly affection stretched just far enough to give his son a trial, and by all accounts, it wasn't much more than an excuse for Crouch to show how much he hated the boy . . . then he sent him straight to Azkaban."
-"He gave his own son to the dementors?" asked Harry quietly. 
+"He gave his own son to the dementors?" asked Harry quietly.
 "That's right," said Sirius, and he didn't look remotely amused now.  "I saw the dementors bringing him in, watched them through the bars in my cell door.  He can't have been more than nineteen.  They took him into a cell near mine.  He was screaming for his mother by nightfall.  He went quiet after a few days, though . . .they all went quiet in the end. . . except when they shrieked in their sleep. ..."
 For a moment, the deadened look in Sirius's eyes became more pronounced than ever, as though shutters had closed behind them.
 "So he's still in Azkaban?" Harry said.
@@ -5136,7 +5136,7 @@ Your name didn't get into the Goblet of Fire by accident.  If someone's trying t
 
 "Who's he, to lecture me about being out-of-bounds?"  said Harry in mild indignation as he folded up Sirius's letter and put it inside his robes.  "After all the stuff he did at school!"
 "He's worried about you!"  said Hermione sharply.  "Just like Moody and Hagrid!  So listen to them!"
-"No one's tried to attack me all year," said Harry. "No one's done anything to me at 
+"No one's tried to attack me all year," said Harry. "No one's done anything to me at
 all-"
 "Except put your name in the Goblet of Fire," said Hermione.  "And they must've done that for a reason.  Harry.  Snuffles is right.  Maybe they've been biding their time.  Maybe this is the task they're going to get you."
 "Look," said Harry impatiently, "let's say Sirius is right, and someone Stunned Krum to kidnap Crouch.  Well, they would've been in the trees near us, wouldn't they?  But they waited till I was out of the way until they acted, didn't they?  So it doesn't look like I'm their target, does it?"
@@ -5205,9 +5205,9 @@ He could hear voices from inside the office. He stepped off the moving staircase
 "Yes, yes, let's go down to the grounds, then," said Fudge impatiently.
 "No, it's not that," said Moody, "it's just that Potter wants a word with you, Dumbledore.  He's just outside the door."
 
-CHAPTER THIRTY - THE PENSIEVE 
+CHAPTER THIRTY - THE PENSIEVE
 
-The door of the office opened. 
+The door of the office opened.
 "Hello, Potter," said Moody. "Come in, then."
 Harry walked inside.  He had been inside Dumbledore's office once before; it was a very beautiful, circular room, lined with pictures of previous headmasters and headmistresses of Hogwarts, all of whom were fast asleep, their chests rising and falling gently.
 Cornelius Fudge was standing beside Dumbledore's desk, wearing his usual pinstriped cloak and holding his lime-green bowler hat.
@@ -5459,13 +5459,13 @@ Harry's nerves mounted as June the twenty-fourth drew closer, but they were not 
 
 Breakfast was a very noisy affair at the Gryffindor table on the morning of the third task. The post owls appeared, bringing Harry a good-luck card from Sirius.  It was only a piece of parchment, folded over and bearing a muddy paw print on its front, but Harry appreciated it all the same.  A screech owl arrived for Hermione, carrying her morning copy of the Daily Prophet as usual.  She unfolded the paper, glanced at the front page, and spat out a mouthful of pumpkin juice all over it.
 "What?" said Harry and Ron together, staring at her.  "Nothing," said Hermione quickly, trying to shove the paper out of sight, but Ron grabbed it.  He stared at the headline and said, "No way.  Not today.  That old cow."
-"What?"  said Harry.  "Rita Skeeter again?" 
+"What?"  said Harry.  "Rita Skeeter again?"
 "No," said Ron, and just like Hermione, he attempted to push the paper out of sight.
-"It's about me, isn't it?" said Harry. 
+"It's about me, isn't it?" said Harry.
 "No," said Ron, in an entirely unconvincing tone.  But before Harry could demand to see the paper.  Draco Malfoy shouted across the Great Hall from the Slytherin table.
 "Hey, Potter!  Potter!  How's your head?  You feeling all right?  Sure you're not going to go berserk on us?"
 Malfoy was holding a copy of the Daily Prophet too. Slytherins up and down the table were sniggering, twisting in their seats to see Harry's reaction.
-"Let me see it," Harry said to Ron.  "Give it here." 
+"Let me see it," Harry said to Ron.  "Give it here."
 Very reluctantly, Ron handed over the newspaper. Harry turned it over and found himself staring at his own picture, beneath the banner headline:
 
 "HARRY POTTER "DISTURBED AND DANGEROUS"
@@ -5746,7 +5746,7 @@ Wormtail was gasping and moaning with agony.  Not until Harry felt Wormtail's an
 Harry could do nothing to prevent it, he was tied too tightly. . .. Squinting down, struggling hopelessly at the ropes binding him, he saw the shining silver dagger shaking in Wormtails remaining hand.  He felt its point penetrate the crook of his right arm and blood seeping down the sleeve of his torn robes.  Wormtail, still panting with pain, rumbled in his pocket for a glass vial and held it to Harry's cut, so that a dribble of blood fell into it.
 He staggered back to the cauldron with Harrys blood.  He poured it inside.  The liquid within turned, instantly, a blinding white.  Wormtail, his job done, dropped to his knees beside the cauldron, then slumped sideways and lay on the ground, cradling the bleeding stump of his arm, gasping and sobbing.
 The cauldron was simmering, sending its diamond sparks in all directions, so blindingly bright that it turned all else to velvety blackness.  Nothing happened. . . .
-Let it have drowned.  Harry thought, let it have gone wrong. . . •
+Let it have drowned.  Harry thought, let it have gone wrong. . . Â•
 And then, suddenly, the sparks emanating from the cauldron were extinguished.  A surge of white steam billowed thickly from the cauldron instead, obliterating everything in front of Harry, so that he couldn't see Wormtail or Cedric or anything but vapor hanging in the air. ... It's gone wrong, he thought. . . it's drowned. .. please . . . please let it be dead. ...
 But then, through the mist in front of him, he saw, with an icy surge of terror, the dark outline of a man, tall and skeletally thin, rising slowly from inside the cauldron.
 "Robe me," said the high, cold voice from behind the steam, and Wormtail, sobbing and moaning, still cradling his mutilated arm, scrambled to pick up the black robes from the ground, got to his feet, reached up, and pulled them one-handed over his master's head.
@@ -5785,7 +5785,7 @@ He put back his terrible face and sniffed, his slit-like nostrils widening.
 "I smell guilt," he said.  "There is a stench or guilt upon the air.
 A second shiver ran around the circle, as though each member of it longed, but did not dare to step back from him.
 "I see you all, whole and healthy, with your powers intact - such prompt appearances! and I ask myself . . . why did this band of wizards never come to the aid of their master, to whom they swore eternal loyalty?"
-No one spoke.  No one moved except Wormtail, who was upon the ground, still sobbing over his bleeding arm.  
+No one spoke.  No one moved except Wormtail, who was upon the ground, still sobbing over his bleeding arm.
 "And I answer myself," whispered Voldemort, "they must have believed me broken, they thought I was gone.  They slipped back among my enemies, and they pleaded innocence, and ignorance, and bewitchment. . . .
 "And then I ask myself, but how could they have believed I would not rise again?  They, who knew the steps I took, long ago, to guard myself against mortal death?  They, who had seen proofs of the immensity of my power in the times when I was mightier than any wizard living?
 "And I answer myself, perhaps they believed a still greater power could exist, one that could vanquish even Lord Voldemort. . . perhaps they now pay allegiance to another . . . perhaps that champion of commoners, of Mudbloods and Muggles, Albus Dumbledore?"
@@ -5952,7 +5952,7 @@ Harry let go of the cup, but he clutched Cedric to him even more tightly.  He ra
 The face of Cornelius Fudge appeared upside down over Harry; it looked white, appalled.
 "My God - Diggory!"  it whispered.  "Dumbledore - he's dead!"
 The words were repeated, the shadowy figures pressing in on them gasped it to those around them . . . and then others shouted it - screeched it - into the night - "He's dead!"  "He's dead!"  "Cedric Diggory!  Dead!"
-"Harry, let go of him," he heard Fudge's voice say, and he felt fingers trying to pry him from Cedric's limp body, but Harry wouldn't let him go.  Then Dumbledore's face, which was still blurred and misted, came closer. 
+"Harry, let go of him," he heard Fudge's voice say, and he felt fingers trying to pry him from Cedric's limp body, but Harry wouldn't let him go.  Then Dumbledore's face, which was still blurred and misted, came closer.
 "Harry, you can't help him now.  It's over.  Let go."
 "He wanted me to bring him back," Harry muttered - it seemed important to explain this.  "He wanted me to bring him back to his parents. ..."
 "That's right. Harry . . . just let go now. . . ."
@@ -6188,7 +6188,7 @@ Harry felt an inexpressible sense of gratitude to Dumbledore for asking the othe
 "I will be back to see you as soon as I have met with Fudge, Harry," said Dumbledore. "I would like you to remain here tomorrow until I have spoken to the school."  He left.
 As Madam Pomfrey led Harry to a nearby bed, he caught sight of the real Moody lying motionless in a bed at the far end of the room.  His wooden leg and magical eye were lying on the bedside table.
 "Is he okay?"  Harry asked.
-"He'll be fine," said Madam Pomfrey, giving Harry some pajamas and pulling screens around him.  He took off his robes, pulled on the pajamas, and got into bed. Ron, Hermione, Bill, Mrs. Weasley, and the black dog came around the screen and settled themselves in chairs on either side of him.  Ron and Hermione were looking at him almost cautiously, as though scared of him.       
+"He'll be fine," said Madam Pomfrey, giving Harry some pajamas and pulling screens around him.  He took off his robes, pulled on the pajamas, and got into bed. Ron, Hermione, Bill, Mrs. Weasley, and the black dog came around the screen and settled themselves in chairs on either side of him.  Ron and Hermione were looking at him almost cautiously, as though scared of him.
 "I'm all right," he told them.  "Just tired."
 Mrs. Weasleys eyes filled with tears as she smoothed his bed-covers unnecessarily.
 Madam Pomfrey, who had bustled off to her office, returned holding a small bottle of some purple potion and a goblet.
@@ -6228,7 +6228,7 @@ Fudge looked as though someone had just swung a heavy weight into his face.  Daz
 "See here, Dumbledore," said Fudge, and Harry was astonished to see a slight smile dawning on his face, "you - you can't seriously believe that You-Know-Who - back?  Come now, come now . . . certainly, Crouch may have believed himself to be acting upon You-Know-Who's orders - but to take the word of a lunatic like that, Dumbledore ..."
 "When Harry touched the Triwizard Cup tonight, he was transported straight to Voldemort," said Dumbledore steadily.  "He witnessed Lord Voldemort's rebirth.  I will explain it all to you if you will step up to my office."
 Dumbledore glanced around at Harry and saw that he was awake, but shook his head and said, "I am afraid I cannot permit you to question Harry tonight."
-Fudge's curious smile lingered.  He too glanced at Harry, then looked back at Dumbledore, and said, "You are - er - prepared  to take Harry's word on this, are you, Dumbledore?"           
+Fudge's curious smile lingered.  He too glanced at Harry, then looked back at Dumbledore, and said, "You are - er - prepared  to take Harry's word on this, are you, Dumbledore?"
 There was a moment's silence, which was broken by Sirius growling.  His hackles were raised, and he was baring his teeth at Fudge.
 "Certainly, I believe Harry," said Dumbledore.  His eyes were blazing now.  "I heard Crouch's confession, and I heard Harry's account of what happened after he touched the Triwizard Cup; the two stories make sense, they explain everything that has happened since Bertha Jorkins disappeared last summer."
 Fudge still had that strange smile on his face.  Once again, he glanced at Harry before answering.
@@ -6249,8 +6249,8 @@ Snape made a sudden movement, but as Harry looked at him, Snape's eyes flew back
 "Macnair!"  Harry continued.
 "Also cleared!  Now working for the Ministry!"
 "Avery - Nott - Crabbe - Goyle -"
-"You are merely repeating the names of those who were acquitted of being Death Eaters thirteen years ago!"  said Fudge angrily.  "You could have found those names in old reports of the trials!  For heavens sake, Dumbledore - the boy was full of some crackpot story at the end of last year too - his tales are getting taller, and you're still swallowing them - the boy can talk to snakes.  Dumbledore, and you still think he's trustworthy?"                   
-"You fool!"  Professor McGonagall cried.  "Cedric Diggory!  Mr. Crouch!  These deaths were not the random work of a lunatic!"    
+"You are merely repeating the names of those who were acquitted of being Death Eaters thirteen years ago!"  said Fudge angrily.  "You could have found those names in old reports of the trials!  For heavens sake, Dumbledore - the boy was full of some crackpot story at the end of last year too - his tales are getting taller, and you're still swallowing them - the boy can talk to snakes.  Dumbledore, and you still think he's trustworthy?"
+"You fool!"  Professor McGonagall cried.  "Cedric Diggory!  Mr. Crouch!  These deaths were not the random work of a lunatic!"
 "I see no evidence to the contrary!"  shouted Fudge, now matching her anger, his face purpling.  "It seems to me that you are all determined to start a panic that will destabilize everything we have worked for these last thirteen years!"
 Harry couldn't believe what he was hearing.  He had always thought of Fudge as a kindly figure, a little blustering, a little pompous, but essentially good-natured.  But now a short, angry wizard stood before him, refusing, point-blank, to accept the prospect of disruption in his comfortable and ordered world - to believe that Voldemort could have risen.
 "Voldemort has returned," Dumbledore repeated.  "If you accept that fact straightaway. Fudge, and take the necessary measures, we may still be able to save the situation.  The first and most essential step is to remove Azkaban from the control of the dementors -"
@@ -6298,7 +6298,7 @@ Snape had not yelled or jumped backward, but the look on his face was one of min
 Harry thought Dumbledore was asking for a near miracle.  Sirius and Snape were eyeing each other with the utmost loathing.
 "I will settle, in the short term," said Dumbledore, with a bite of impatience in his voice, "for a lack of open hostility.  You will shake hands.  You are on the same side now.  Time is short, and unless the few of us who know the truth do not stand united, there is no hope
 for any us.
-Very slowly - but still glaring at each other as though each wished the other nothing but ill - Sirius and Snape moved toward each other and shook hands.  They let go extremely quickly.   
+Very slowly - but still glaring at each other as though each wished the other nothing but ill - Sirius and Snape moved toward each other and shook hands.  They let go extremely quickly.
 "That will do to be going on with," said Dumbledore, stepping between them once more.  "Now I have work for each of you.  Fudge's attitude, though not unexpected, changes everything.  Sirius, I need you to set off at once.  You are to alert Remus Lupin, Arabella Figg, Mundungus Fletcher - the old crowd.  Lie low at Lupin's for a while; I will contact you there."
 "But -" said Harry.
 He wanted Sirius to stay.  He did not want to have to say goodbye again so quickly.
@@ -6331,7 +6331,7 @@ They did not blame him for what had happened; on the contrary, both thanked him 
 "He suffered very little then," she said, when Harry had told her how Cedric had died. "And after all, Amos ... he died just when he'd won the tournament.  He must have been happy."
 When they got to their feet, she looked down at Harry and said, "You look after yourself, now."
 Harry seized the sack of gold on the bedside table.
-"You take this," he muttered to her.  "It should've been Cedric's, he got there first, you take it -" 
+"You take this," he muttered to her.  "It should've been Cedric's, he got there first, you take it -"
 But she backed away from him.
 "Oh no, it's yours, dear, I couldn't. . . you keep it."
 
