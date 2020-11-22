@@ -1,7 +1,7 @@
 import os
 import re
 from argparse import Namespace, ArgumentParser
-from typing import Dict, List
+from typing import Dict, List, Union
 from operator import itemgetter
 import numpy as np
 
@@ -13,11 +13,14 @@ NGramsMap = Dict[str, int]
 
 
 class NGrams:
-    def __init__(self, n_size: int = 3, alphabet: str = None) -> None:
+    def __init__(
+        self, n_size: int = 3, alphabet: Union[None, str] = None
+    ) -> None:
         self.n_size = n_size
-        self.alphabet = alphabet
-        if not self.alphabet:
+        if not alphabet:
             self.alphabet = "abcdefghijklmnopqrstuvwxyz"
+        else:
+            self.alphabet = alphabet
         self.init_n_grams_list = self._initialize_n_grams_list(self.n_size)
 
     def get_vector_for_document(self, document: str) -> NGramsVector:
@@ -47,8 +50,8 @@ class NGrams:
                     n_grams_table2.append(i + j)
             return n_grams_table2
 
-    def _count_n_grams(self, data: str, n_grams: int) -> NGramsMap:
-        n_grams_map = {}
+    def _count_n_grams(self, data: List[str], n_grams: int) -> NGramsMap:
+        n_grams_map: NGramsMap = {}
         for word in data:
             for gram in self._get_n_grams_from_string(word, n_grams):
                 if gram in n_grams_map:

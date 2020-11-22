@@ -27,6 +27,7 @@ jobs:
     - name: Run tests
       run: |
         pytest
+        mypy . --ignore-missing-imports
         python -m ngrams --train-dir train_corpus --n-gram 3 --test-file test_corpus/thewire.txt
         python -m ngrams --train-dir train_corpus --n-gram 3 --test-file test_corpus/pan_tadeusz.txt
 
