@@ -7,15 +7,9 @@ import numpy as np
 
 
 SimilarityMap = Dict[str, float]
-NGramsList = List[int]
-
-
-def cosine_distance(vec1: NGramsList, vec2: NGramsList) -> float:
-    return np.dot(vec1, vec2) / (np.linalg.norm(vec1) * np.linalg.norm(vec2))
-
-
-def clean(string: str) -> str:
-    return re.sub(r"[^a-z\s]", "", string)
+NGramsVector = List[int]
+NGramsList = List[str]
+NGramsMap = Dict[str, int]
 
 
 class NGrams:
@@ -24,21 +18,22 @@ class NGrams:
         self.alphabet = alphabet
         if not self.alphabet:
             self.alphabet = "abcdefghijklmnopqrstuvwxyz"
+        self.init_n_grams_list = self._initialize_n_grams_list(self.n_size)
 
-    def count_stat_for_document(self, document: str) -> NGramsList:
+    def count_stat_for_document(self, document: str) -> NGramsVector:
         stat_list = []
         with open(document, "r") as file:
             data = file.read()
             data2 = clean(data.lower()).split()
             stat_map = self._count_n_grams(data2, self.n_size)
-            for key in self._initialize_n_grams_list(self.n_size):
+            for key in self.init_n_grams_list:
                 if key not in stat_map:
                     stat_list.append(0)
                 else:
                     stat_list.append(stat_map[key])
         return stat_list
 
-    def _initialize_n_grams_list(self, n_size):
+    def _initialize_n_grams_list(self, n_size: int) -> NGramsList:
         n_grams_table = []
         if n_size == 1:
             for i in self.alphabet:
@@ -52,7 +47,7 @@ class NGrams:
                     n_grams_table2.append(i + j)
             return n_grams_table2
 
-    def _count_n_grams(self, data: str, n_grams: int):
+    def _count_n_grams(self, data: str, n_grams: int) -> NGramsMap:
         n_grams_map = {}
         for word in data:
             for gram in self._get_n_grams_from_string(word, n_grams):
@@ -70,9 +65,17 @@ class NGrams:
         ]
 
 
+def cosine_distance(vec1: NGramsVector, vec2: NGramsVector) -> float:
+    return np.dot(vec1, vec2) / (np.linalg.norm(vec1) * np.linalg.norm(vec2))
+
+
+def clean(string: str) -> str:
+    return re.sub(r"[^a-z\s]", "", string)
+
+
 def make_stats(
     ngrams: NGrams, directory: str, n_size: int = 3
-) -> Dict[str, NGramsList]:
+) -> Dict[str, NGramsVector]:
     stat_map = {}
     for filename in os.listdir(directory):
         if filename.endswith(".txt"):
