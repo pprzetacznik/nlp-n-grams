@@ -5,13 +5,8 @@ Natural Language Processing - n-grams statistics
 
 Run:
 ```
-pip install -r requirements.txt
-python -m stats --train-dir train_corpus --n-gram 3 --test-file test_corpus/thewire.txt
-```
-
-Example run:
-```
-$ python -m stats --train-dir train_corpus --n-gram 3 --test-file test_corpus/thewire.txt
+$ pip install -r requirements.txt
+$ python -m ngrams --train-dir train_corpus --n-gram 3 --test-file test_corpus/thewire.txt
 Processing file: train_corpus/2momm10.txt
 Processing file: train_corpus/4momm10.txt
 Processing file: train_corpus/54.txt
@@ -52,5 +47,5 @@ polski2.txt  :  0.09401455065003979
 ## Tests
 
 ```
-pytest
+$ pytest
 ```

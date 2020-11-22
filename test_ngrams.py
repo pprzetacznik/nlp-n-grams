@@ -1,8 +1,8 @@
-import unittest
-from stats import NGrams, cosine_distance, clean
+from unittest import TestCase, main
+from ngrams import NGrams, cosine_distance, clean
 
 
-class TestStats(unittest.TestCase):
+class TestNGrams(TestCase):
     def setUp(self):
         pass
 
@@ -23,4 +23,4 @@ class TestStats(unittest.TestCase):
 
 
 if __name__ == "__main__":
-    unittest.main()
+    main()

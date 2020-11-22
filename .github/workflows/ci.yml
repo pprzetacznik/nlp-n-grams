@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    name: Build and test
+    name: Test and run examples
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
@@ -27,6 +27,6 @@ jobs:
     - name: Run tests
       run: |
         pytest
-        python -m stats --train-dir train_corpus --n-gram 3 --test-file test_corpus/thewire.txt
-        python -m stats --train-dir train_corpus --n-gram 3 --test-file test_corpus/pan_tadeusz.txt
+        python -m ngrams --train-dir train_corpus --n-gram 3 --test-file test_corpus/thewire.txt
+        python -m ngrams --train-dir train_corpus --n-gram 3 --test-file test_corpus/pan_tadeusz.txt
 
